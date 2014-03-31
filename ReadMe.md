@@ -14,15 +14,15 @@ c_py.xml
 
 To use Processing and Arduino, you should define the luanguage as userDefineLang first.
 rename userDefineLang_processing_arduino.xml to userDefineLang.xml.
-And put it under the path ...\Notepad++\ .
+And put it under the path ...\Notepad++ .
 If you have other luangage defined, copy the content to userDefineLang.xml use its format.
-the copy the processing.xml or arduino.xml to ...\Notepad++\plugins\APIs.
+Then copy the processing.xml or arduino.xml to ...\Notepad++\plugins\APIs.
 
-c_py.xml is Python C API, copy it to c.xml to use it .
+c_py.xml is Python C API, copy its content into c.xml to use it .
 
 Make sure you have enabled auto complete in npp.
 
-theme:put the Monokai.xml into ...\Notepad++\themes.
+Theme: put the Monokai.xml into ...\Notepad++\themes.
 
 You can generate your language API too! See more detail in api.py
 
@@ -50,6 +50,7 @@ Arduino.xml
 c_py.xml
 
 Processing 和 Arduino:
+
 使用这些语言需要先在用户定义语言中添加它们。
 将 userDefineLang_processing_arduino.xml 重命名为 userDefineLang.xml.
 然后复制到 ...\Notepad++\目录下。
