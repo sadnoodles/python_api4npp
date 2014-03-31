@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<AutoComplete>
+		<Environment ignoreCase="no" startFunc="(" stopFunc=")" paramSeparator="," terminal=";" additionalWordChar="." />
+{%for item in api%}
+		<KeyWord name="{{item}}" />{%endfor%}
+{%for func in functions%}
+		<KeyWord name="{{func["name"]}}" func="yes">
+			<Overload retVal="{{func["returnVal"].strip()}}" descr="{%for line in func["doc"].splitlines()%}{%if line.strip()%}
+						{{line.strip()}}{%endif%}{%endfor%}">{% for para in func["para"] %}
+				<Param name="{{para.strip()}}"/>{% endfor %}
+			</Overload>
+		</KeyWord>{%endfor%}
+	</AutoComplete>
+</NotepadPlus>

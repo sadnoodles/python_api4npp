@@ -1,0 +1,877 @@
+Cookie.dumps(obj, protocol=0) -> Return a string containing an object in pickle format.
+Cookie.loads(string) -> Load a pickle from the given string
+DocXMLRPCServer.resolve_dotted_attribute(a, 'b.c.d') => a.b.c.d
+Queue.deque(iterable[, maxlen]) -> deque object
+SimpleHTTPServer.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+SimpleXMLRPCServer.remove_duplicates([2,2,2,1,3,3]) => [3,1,2]
+SimpleXMLRPCServer.resolve_dotted_attribute(a, 'b.c.d') => a.b.c.d
+abs(number) -> number
+all(iterable) -> bool
+any(iterable) -> bool
+apply(object[, args[, kwargs]]) -> value
+array.array(typecode [, initializer]) -> array
+asynchat.deque(iterable[, maxlen]) -> deque object
+bin(number) -> string
+binascii.a2b_hex(hexstr) -> s; Binary data of hexadecimal representation.
+binascii.b2a_hex(data) -> s; Hexadecimal representation of binary data.
+binascii.b2a_qp(data, quotetabs=0, istext=1, header=0) -> s;
+bisect.bisect_left(a, x[, lo[, hi]]) -> index
+bisect.bisect_right(a, x[, lo[, hi]]) -> index
+bisect.insort_left(a, x[, lo[, hi]])
+bisect.insort_right(a, x[, lo[, hi]])
+bool(x) -> bool
+buffer(object [, offset[, size]])
+bytearray(iterable_of_ints) -> bytearray.
+cPickle.Pickler(file, protocol=0) -> Create a pickler.
+cPickle.Unpickler(file) -> Create an unpickler.
+cPickle.dump(obj, file, protocol=0) -> Write an object in pickle format to the given file.
+cPickle.dumps(obj, protocol=0) -> Return a string containing an object in pickle format.
+cPickle.load(file) -> Load a pickle from the given file
+cPickle.loads(string) -> Load a pickle from the given string
+cProfile.Profile(custom_timer=None, time_unit=None, subcalls=True, builtins=True)
+cStringIO.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+callable(object) -> bool
+cgi.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+cgi.attrgetter(attr, ...) -> attrgetter object
+chr(i) -> character
+classmethod(function) -> method
+cmath.acos(x)
+cmath.acosh(x)
+cmath.asin(x)
+cmath.asinh(x)
+cmath.atan(x)
+cmath.atanh(x)
+cmath.cos(x)
+cmath.cosh(x)
+cmath.exp(x)
+cmath.isinf(z) -> bool
+cmath.isnan(z) -> bool
+cmath.log(x[, base]) -> the logarithm of x to the given base.
+cmath.log10(x)
+cmath.phase(z) -> float
+cmath.polar(z) -> r: float, phi: float
+cmath.rect(r, phi) -> z: complex
+cmath.sin(x)
+cmath.sinh(x)
+cmath.sqrt(x)
+cmath.tan(x)
+cmath.tanh(x)
+cmp(x, y) -> integer
+codecs.decode(obj, [encoding[,errors]]) -> object
+codecs.encode(obj, [encoding[,errors]]) -> object
+codecs.lookup(encoding) -> CodecInfo
+codecs.lookup_error(errors) -> handler
+codecs.make_identity_dict(rng) -> dict
+codecs.register(search_function)
+codecs.register_error(errors, handler)
+coerce(x, y) -> (x1, y1)
+collections.defaultdict(default_factory) -> dict with default factory
+collections.deque(iterable[, maxlen]) -> deque object
+compile(source, filename, mode[, flags[, dont_inherit]]) -> code object
+compiler.pycodegen.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+complex(real[, imag]) -> complex number
+crypt.crypt(word, salt) -> string
+csv.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+csv.reduce(function, sequence[, initial]) -> value
+ctypes.addressof(C instance) -> integer
+ctypes.alignment(C type) -> integer
+ctypes.byref(C instance[, offset=0]) -> byref-object
+ctypes.create_string_buffer(aString) -> character array
+ctypes.create_unicode_buffer(aString) -> character array
+ctypes.macholib.dyld.chain(*iterables) -> chain object
+ctypes.macholib.dyld.combinations(iterable, r) -> combinations object
+ctypes.macholib.dyld.combinations_with_replacement(iterable, r) -> combinations_with_replacement object
+ctypes.macholib.dyld.compress(data, selectors) -> iterator over selected data
+ctypes.macholib.dyld.count(start=0, step=1) -> count object
+ctypes.macholib.dyld.cycle(iterable) -> cycle object
+ctypes.macholib.dyld.dropwhile(predicate, iterable) -> dropwhile object
+ctypes.macholib.dyld.groupby(iterable[, keyfunc]) -> create an iterator which returns
+ctypes.macholib.dyld.ifilter(function or None, sequence) -> ifilter object
+ctypes.macholib.dyld.ifilterfalse(function or None, sequence) -> ifilterfalse object
+ctypes.macholib.dyld.imap(func, *iterables) -> imap object
+ctypes.macholib.dyld.islice(iterable, [start,] stop [, step]) -> islice object
+ctypes.macholib.dyld.izip(iter1 [,iter2 [...]]) -> izip object
+ctypes.macholib.dyld.izip_longest(iter1 [,iter2 [...]], [fillvalue=None]) -> izip_longest object
+ctypes.macholib.dyld.permutations(iterable[, r]) -> permutations object
+ctypes.macholib.dyld.product(*iterables) -> product object
+ctypes.macholib.dyld.repeat(object [,times]) -> create an iterator which returns the object
+ctypes.macholib.dyld.starmap(function, sequence) -> starmap object
+ctypes.macholib.dyld.takewhile(predicate, iterable) -> takewhile object
+ctypes.macholib.dyld.tee(iterable, n=2) -> tuple of n independent iterators.
+ctypes.set_conversion_mode(encoding, errors) -> (previous-encoding, previous-errors)
+ctypes.sizeof(C type) -> integer
+ctypes.string_at(addr[, size]) -> string
+ctypes.wstring_at(addr[, size]) -> string
+datetime.date(year, month, day) -> date object
+datetime.datetime(year, month, day[, hour[, minute[, second[, microsecond[,tzinfo]]]]])
+datetime.time([hour[, minute[, second[, microsecond[, tzinfo]]]]]) -> a time object
+decimal.DecimalTuple(sign, digits, exponent)
+delattr(object, name)
+dict() -> new empty dictionary
+difflib.Match(a, b, size)
+difflib.reduce(function, sequence[, initial]) -> value
+dir([object]) -> list of strings
+divmod(x, y) -> (div, mod)
+doctest.TestResults(failed, attempted)
+email.generator.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+email.iterators.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+email.message.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+email.mime.audio.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+email.parser.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+enumerate(iterable[, start]) -> iterator for index, value of iterable
+eval(source[, globals[, locals]]) -> value
+execfile(filename[, globals[, locals]])
+fcntl.fcntl(fd, opt, [arg])
+fcntl.flock(fd, operation)
+fcntl.ioctl(fd, opt[, arg[, mutate_flag]])
+fcntl.lockf (fd, operation, length=0, start=0, whence=0)
+file(name[, mode[, buffering]]) -> file object
+filecmp.ifilter(function or None, sequence) -> ifilter object
+filecmp.ifilterfalse(function or None, sequence) -> ifilterfalse object
+filecmp.imap(func, *iterables) -> imap object
+filecmp.izip(iter1 [,iter2 [...]]) -> izip object
+fileinput.input([files[, inplace[, backup[, mode[, openhook]]]]])
+filter(function or None, sequence) -> list, tuple, or string
+float(x) -> floating point number
+format(value[, format_spec]) -> string
+frozenset() -> empty frozenset object
+functools.partial(func, *args, **keywords) - new function with partial application
+functools.reduce(function, sequence[, initial]) -> value
+future_builtins.ascii(object) -> string
+future_builtins.hex(number) -> string
+future_builtins.oct(number) -> string
+gc.collect([generation]) -> n
+gc.disable() -> None
+gc.enable() -> None
+gc.get_count() -> (count0, count1, count2)
+gc.get_debug() -> flags
+gc.get_objects() -> [...]
+gc.get_referents(*objs) -> list
+gc.get_referrers(*objs) -> list
+gc.get_threshold() -> (threshold0, threshold1, threshold2)
+gc.is_tracked(obj) -> bool
+gc.isenabled() -> status
+gc.set_debug(flags) -> None
+gc.set_threshold(threshold0, [threshold1, threshold2]) -> None
+getattr(object, name[, default]) -> value
+getopt.getopt(args, options[, long_options]) -> opts, args
+globals() -> dictionary
+grp.getgrall() -> list of tuples
+grp.getgrgid(id) -> tuple
+grp.getgrnam(name) -> tuple
+hasattr(object, name) -> bool
+hash(object) -> integer
+hashlib.new(name, string='') - Return a new hashing object using the named algorithm;
+heapq.chain(*iterables) -> chain object
+heapq.count(start=0, step=1) -> count object
+heapq.imap(func, *iterables) -> imap object
+heapq.islice(iterable, [start,] stop [, step]) -> islice object
+heapq.itemgetter(item, ...) -> itemgetter object
+heapq.izip(iter1 [,iter2 [...]]) -> izip object
+heapq.repeat(object [,times]) -> create an iterator which returns the object
+heapq.tee(iterable, n=2) -> tuple of n independent iterators.
+hex(number) -> string
+httplib.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+httplib.array(typecode [, initializer]) -> array
+id(object) -> integer
+imp.acquire_lock() -> None
+imp.find_module(name, [path]) -> (file, filename, (suffix, mode, type))
+imp.get_magic() -> string
+imp.get_suffixes() -> [(suffix, mode, type), ...]
+imp.load_module(name, file, filename, (suffix, mode, type)) -> module
+imp.lock_held() -> boolean
+imp.new_module(name) -> module
+imp.release_lock() -> None
+imp.reload(module) -> module
+input([prompt]) -> value
+inspect.ArgInfo(args, varargs, keywords, locals)
+inspect.ArgSpec(args, varargs, keywords, defaults)
+inspect.Arguments(args, varargs, keywords)
+inspect.Attribute(name, kind, defining_class, object)
+inspect.ModuleInfo(name, suffix, mode, module_type)
+inspect.Traceback(filename, lineno, function, code_context, index)
+inspect.attrgetter(attr, ...) -> attrgetter object
+int(x[, base]) -> integer
+intern(string) -> string
+io.BytesIO([buffer]) -> object
+isinstance(object, class-or-type-or-tuple) -> bool
+issubclass(C, B) -> bool
+iter(collection) -> iterator
+itertools.chain(*iterables) -> chain object
+itertools.combinations(iterable, r) -> combinations object
+itertools.combinations_with_replacement(iterable, r) -> combinations_with_replacement object
+itertools.compress(data, selectors) -> iterator over selected data
+itertools.count(start=0, step=1) -> count object
+itertools.cycle(iterable) -> cycle object
+itertools.dropwhile(predicate, iterable) -> dropwhile object
+itertools.groupby(iterable[, keyfunc]) -> create an iterator which returns
+itertools.ifilter(function or None, sequence) -> ifilter object
+itertools.ifilterfalse(function or None, sequence) -> ifilterfalse object
+itertools.imap(func, *iterables) -> imap object
+itertools.islice(iterable, [start,] stop [, step]) -> islice object
+itertools.izip(iter1 [,iter2 [...]]) -> izip object
+itertools.izip_longest(iter1 [,iter2 [...]], [fillvalue=None]) -> izip_longest object
+itertools.permutations(iterable[, r]) -> permutations object
+itertools.product(*iterables) -> product object
+itertools.repeat(object [,times]) -> create an iterator which returns the object
+itertools.starmap(function, sequence) -> starmap object
+itertools.takewhile(predicate, iterable) -> takewhile object
+itertools.tee(iterable, n=2) -> tuple of n independent iterators.
+json.decoder.scanstring(basestring, end, encoding, strict=True) -> (str, end)
+json.encoder.encode_basestring_ascii(basestring) -> str
+len(object) -> integer
+list() -> new empty list
+locale.bind_textdomain_codeset(domain, codeset) -> string
+locale.bindtextdomain(domain, dir) -> string
+locale.dcgettext(domain, msg, category) -> string
+locale.dgettext(domain, msg) -> string
+locale.gettext(msg) -> string
+locale.nl_langinfo(key) -> string
+locale.textdomain(domain) -> string
+locals() -> dictionary
+long(x[, base]) -> integer
+map(function, sequence[, sequence, ...]) -> list
+marshal.dump(value, file[, version])
+marshal.dumps(value[, version])
+marshal.load(file)
+marshal.loads(string)
+math.acos(x)
+math.acosh(x)
+math.asin(x)
+math.asinh(x)
+math.atan(x)
+math.atan2(y, x)
+math.atanh(x)
+math.ceil(x)
+math.copysign(x, y)
+math.cos(x)
+math.cosh(x)
+math.degrees(x)
+math.erf(x)
+math.erfc(x)
+math.exp(x)
+math.expm1(x)
+math.fabs(x)
+math.factorial(x) -> Integral
+math.floor(x)
+math.fmod(x, y)
+math.frexp(x)
+math.fsum(iterable)
+math.gamma(x)
+math.hypot(x, y)
+math.isinf(x) -> bool
+math.isnan(x) -> bool
+math.ldexp(x, i)
+math.lgamma(x)
+math.log(x[, base])
+math.log10(x)
+math.log1p(x)
+math.modf(x)
+math.pow(x, y)
+math.radians(x)
+math.sin(x)
+math.sinh(x)
+math.sqrt(x)
+math.tan(x)
+math.tanh(x)
+math.trunc(x:Real) -> Integral
+max(iterable[, key=func]) -> value
+memoryview(object)
+min(iterable[, key=func]) -> value
+multiprocessing.connection.close(fd)
+multiprocessing.dummy.dict() -> new empty dictionary
+multiprocessing.dummy.list() -> new empty list
+multiprocessing.forking.close(fd)
+multiprocessing.forking.partial(func, *args, **keywords) - new function with partial application
+multiprocessing.reduction.close(fd)
+mutex.deque(iterable[, maxlen]) -> deque object
+new.classobj(name, bases, dict)
+new.function(code, globals[, name[, argdefs[, closure]]])
+new.instance(class[, dict])
+new.instancemethod(function, instance, class)
+new.module(name[, doc])
+next(iterator[, default])
+nis.cat(map, domain = defaultdomain)
+nis.get_default_domain() -> str
+nis.maps(domain = defaultdomain)
+nis.match(key, map, domain = defaultdomain)
+oct(number) -> string
+open(name[, mode[, buffering]]) -> file object
+operator.abs(a) -> Same as abs(a).
+operator.add(a, b) -> Same as a + b.
+operator.and_(a, b) -> Same as a & b.
+operator.attrgetter(attr, ...) -> attrgetter object
+operator.concat(a, b) -> Same as a + b, for a and b sequences.
+operator.contains(a, b) -> Same as b in a (note reversed operands).
+operator.countOf(a, b) -> Return the number of times b occurs in a.
+operator.delitem(a, b) -> Same as del a[b].
+operator.delslice(a, b, c) -> Same as del a[b:c].
+operator.div(a, b) -> Same as a / b when __future__.division is not in effect.
+operator.eq(a, b) -> Same as a==b.
+operator.floordiv(a, b) -> Same as a // b.
+operator.ge(a, b) -> Same as a>=b.
+operator.getitem(a, b) -> Same as a[b].
+operator.getslice(a, b, c) -> Same as a[b:c].
+operator.gt(a, b) -> Same as a>b.
+operator.index(a) -> Same as a.__index__()
+operator.indexOf(a, b) -> Return the first index of b in a.
+operator.inv(a) -> Same as ~a.
+operator.invert(a) -> Same as ~a.
+operator.isCallable(a) -> Same as callable(a).
+operator.isMappingType(a) -> Return True if a has a mapping type, False otherwise.
+operator.isNumberType(a) -> Return True if a has a numeric type, False otherwise.
+operator.isSequenceType(a) -> Return True if a has a sequence type, False otherwise.
+operator.is_(a, b) -> Same as a is b.
+operator.is_not(a, b) -> Same as a is not b.
+operator.itemgetter(item, ...) -> itemgetter object
+operator.le(a, b) -> Same as a<=b.
+operator.lshift(a, b) -> Same as a << b.
+operator.lt(a, b) -> Same as a<b.
+operator.methodcaller(name, ...) -> methodcaller object
+operator.mod(a, b) -> Same as a % b.
+operator.mul(a, b) -> Same as a * b.
+operator.ne(a, b) -> Same as a!=b.
+operator.neg(a) -> Same as -a.
+operator.not_(a) -> Same as not a.
+operator.or_(a, b) -> Same as a | b.
+operator.pos(a) -> Same as +a.
+operator.pow(a, b) -> Same as a ** b.
+operator.repeat(a, b) -> Return a * b, where a is a sequence, and b is an integer.
+operator.rshift(a, b) -> Same as a > b.
+operator.sequenceIncludes(a, b) -> Same as b in a (note reversed operands; deprecated).
+operator.setitem(a, b, c) -> Same as a[b] = c.
+operator.setslice(a, b, c, d) -> Same as a[b:c] = d.
+operator.sub(a, b) -> Same as a - b.
+operator.truediv(a, b) -> Same as a / b when __future__.division is in effect.
+operator.truth(a) -> Return True if a is true, False otherwise.
+operator.xor(a, b) -> Same as a ^ b.
+ord(c) -> integer
+os.WCOREDUMP(status) -> bool
+os.WEXITSTATUS(status) -> integer
+os.WIFCONTINUED(status) -> bool
+os.WIFEXITED(status) -> bool
+os.WIFSIGNALED(status) -> bool
+os.WIFSTOPPED(status) -> bool
+os.WSTOPSIG(status) -> integer
+os.WTERMSIG(status) -> integer
+os.abort() -> does not return!
+os.access(path, mode) -> True if granted, False otherwise
+os.chdir(path)
+os.chmod(path, mode)
+os.chown(path, uid, gid)
+os.chroot(path)
+os.close(fd)
+os.closerange(fd_low, fd_high)
+os.confstr(name) -> string
+os.ctermid() -> string
+os.dup(fd) -> fd2
+os.dup2(old_fd, new_fd)
+os.execl(file, *args)
+os.execle(file, *args, env)
+os.execlp(file, *args)
+os.execlpe(file, *args, env)
+os.execv(path, args)
+os.execve(path, args, env)
+os.execvp(file, args)
+os.execvpe(file, args, env)
+os.fchdir(fildes)
+os.fchmod(fd, mode)
+os.fchown(fd, uid, gid)
+os.fdatasync(fildes)
+os.fdopen(fd [, mode='r' [, bufsize]]) -> file_object
+os.fork() -> pid
+os.forkpty() -> (pid, master_fd)
+os.fpathconf(fd, name) -> integer
+os.fstat(fd) -> stat result
+os.fstatvfs(fd) -> statvfs result
+os.fsync(fildes)
+os.ftruncate(fd, length)
+os.getcwd() -> path
+os.getcwdu() -> path
+os.getegid() -> egid
+os.geteuid() -> euid
+os.getgid() -> gid
+os.getgroups() -> list of group IDs
+os.getloadavg() -> (float, float, float)
+os.getlogin() -> string
+os.getpgid(pid) -> pgid
+os.getpgrp() -> pgrp
+os.getpid() -> pid
+os.getppid() -> ppid
+os.getresgid() -> (rgid, egid, sgid)
+os.getresuid() -> (ruid, euid, suid)
+os.getsid(pid) -> sid
+os.getuid() -> uid
+os.initgroups(username, gid) -> None
+os.isatty(fd) -> bool
+os.kill(pid, sig)
+os.killpg(pgid, sig)
+os.lchown(path, uid, gid)
+os.link(src, dst)
+os.listdir(path) -> list_of_strings
+os.lseek(fd, pos, how) -> newpos
+os.lstat(path) -> stat result
+os.major(device) -> major number
+os.makedev(major, minor) -> device number
+os.makedirs(path [, mode=0777])
+os.minor(device) -> minor number
+os.mkdir(path [, mode=0777])
+os.mkfifo(filename [, mode=0666])
+os.mknod(filename [, mode=0600, device])
+os.nice(inc) -> new_priority
+os.open(filename, flag [, mode=0777]) -> fd
+os.openpty() -> (master_fd, slave_fd)
+os.pathconf(path, name) -> integer
+os.pipe() -> (read_end, write_end)
+os.popen(command [, mode='r' [, bufsize]]) -> pipe
+os.putenv(key, value)
+os.read(fd, buffersize) -> string
+os.readlink(path) -> path
+os.remove(path)
+os.removedirs(path)
+os.rename(old, new)
+os.renames(old, new)
+os.rmdir(path)
+os.setegid(gid)
+os.seteuid(uid)
+os.setgid(gid)
+os.setgroups(list)
+os.setpgid(pid, pgrp)
+os.setpgrp()
+os.setregid(rgid, egid)
+os.setresgid(rgid, egid, sgid)
+os.setresuid(ruid, euid, suid)
+os.setreuid(ruid, euid)
+os.setsid()
+os.setuid(uid)
+os.spawnl(mode, file, *args) -> integer
+os.spawnle(mode, file, *args, env) -> integer
+os.spawnlp(mode, file, *args) -> integer
+os.spawnlpe(mode, file, *args, env) -> integer
+os.spawnv(mode, file, args) -> integer
+os.spawnve(mode, file, args, env) -> integer
+os.spawnvp(mode, file, args) -> integer
+os.spawnvpe(mode, file, args, env) -> integer
+os.stat(path) -> stat result
+os.stat_float_times([newval]) -> oldval
+os.statvfs(path) -> statvfs result
+os.strerror(code) -> string
+os.symlink(src, dst)
+os.sysconf(name) -> integer
+os.system(command) -> exit_status
+os.tcgetpgrp(fd) -> pgid
+os.tcsetpgrp(fd, pgid)
+os.tempnam([dir[, prefix]]) -> string
+os.times() -> (utime, stime, cutime, cstime, elapsed_time)
+os.tmpfile() -> file object
+os.tmpnam() -> string
+os.ttyname(fd) -> string
+os.umask(new_mask) -> old_mask
+os.uname() -> (sysname, nodename, release, version, machine)
+os.unlink(path)
+os.unsetenv(key)
+os.urandom(n) -> str
+os.utime(path, (atime, mtime))
+os.wait() -> (pid, status)
+os.wait3(options) -> (pid, status, rusage)
+os.wait4(pid, options) -> (pid, status, rusage)
+os.waitpid(pid, options) -> (pid, status)
+os.write(fd, string) -> byteswritten
+pickle.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+pkgutil.zipimporter(archivepath) -> zipimporter object
+plistlib.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+posix.WCOREDUMP(status) -> bool
+posix.WEXITSTATUS(status) -> integer
+posix.WIFCONTINUED(status) -> bool
+posix.WIFEXITED(status) -> bool
+posix.WIFSIGNALED(status) -> bool
+posix.WIFSTOPPED(status) -> bool
+posix.WSTOPSIG(status) -> integer
+posix.WTERMSIG(status) -> integer
+posix.abort() -> does not return!
+posix.access(path, mode) -> True if granted, False otherwise
+posix.chdir(path)
+posix.chmod(path, mode)
+posix.chown(path, uid, gid)
+posix.chroot(path)
+posix.close(fd)
+posix.closerange(fd_low, fd_high)
+posix.confstr(name) -> string
+posix.ctermid() -> string
+posix.dup(fd) -> fd2
+posix.dup2(old_fd, new_fd)
+posix.execv(path, args)
+posix.execve(path, args, env)
+posix.fchdir(fildes)
+posix.fchmod(fd, mode)
+posix.fchown(fd, uid, gid)
+posix.fdatasync(fildes)
+posix.fdopen(fd [, mode='r' [, bufsize]]) -> file_object
+posix.fork() -> pid
+posix.forkpty() -> (pid, master_fd)
+posix.fpathconf(fd, name) -> integer
+posix.fstat(fd) -> stat result
+posix.fstatvfs(fd) -> statvfs result
+posix.fsync(fildes)
+posix.ftruncate(fd, length)
+posix.getcwd() -> path
+posix.getcwdu() -> path
+posix.getegid() -> egid
+posix.geteuid() -> euid
+posix.getgid() -> gid
+posix.getgroups() -> list of group IDs
+posix.getloadavg() -> (float, float, float)
+posix.getlogin() -> string
+posix.getpgid(pid) -> pgid
+posix.getpgrp() -> pgrp
+posix.getpid() -> pid
+posix.getppid() -> ppid
+posix.getresgid() -> (rgid, egid, sgid)
+posix.getresuid() -> (ruid, euid, suid)
+posix.getsid(pid) -> sid
+posix.getuid() -> uid
+posix.initgroups(username, gid) -> None
+posix.isatty(fd) -> bool
+posix.kill(pid, sig)
+posix.killpg(pgid, sig)
+posix.lchown(path, uid, gid)
+posix.link(src, dst)
+posix.listdir(path) -> list_of_strings
+posix.lseek(fd, pos, how) -> newpos
+posix.lstat(path) -> stat result
+posix.major(device) -> major number
+posix.makedev(major, minor) -> device number
+posix.minor(device) -> minor number
+posix.mkdir(path [, mode=0777])
+posix.mkfifo(filename [, mode=0666])
+posix.mknod(filename [, mode=0600, device])
+posix.nice(inc) -> new_priority
+posix.open(filename, flag [, mode=0777]) -> fd
+posix.openpty() -> (master_fd, slave_fd)
+posix.pathconf(path, name) -> integer
+posix.pipe() -> (read_end, write_end)
+posix.popen(command [, mode='r' [, bufsize]]) -> pipe
+posix.putenv(key, value)
+posix.read(fd, buffersize) -> string
+posix.readlink(path) -> path
+posix.remove(path)
+posix.rename(old, new)
+posix.rmdir(path)
+posix.setegid(gid)
+posix.seteuid(uid)
+posix.setgid(gid)
+posix.setgroups(list)
+posix.setpgid(pid, pgrp)
+posix.setpgrp()
+posix.setregid(rgid, egid)
+posix.setresgid(rgid, egid, sgid)
+posix.setresuid(ruid, euid, suid)
+posix.setreuid(ruid, euid)
+posix.setsid()
+posix.setuid(uid)
+posix.stat(path) -> stat result
+posix.stat_float_times([newval]) -> oldval
+posix.statvfs(path) -> statvfs result
+posix.strerror(code) -> string
+posix.symlink(src, dst)
+posix.sysconf(name) -> integer
+posix.system(command) -> exit_status
+posix.tcgetpgrp(fd) -> pgid
+posix.tcsetpgrp(fd, pgid)
+posix.tempnam([dir[, prefix]]) -> string
+posix.times() -> (utime, stime, cutime, cstime, elapsed_time)
+posix.tmpfile() -> file object
+posix.tmpnam() -> string
+posix.ttyname(fd) -> string
+posix.umask(new_mask) -> old_mask
+posix.uname() -> (sysname, nodename, release, version, machine)
+posix.unlink(path)
+posix.unsetenv(key)
+posix.utime(path, (atime, mtime))
+posix.wait() -> (pid, status)
+posix.wait3(options) -> (pid, status, rusage)
+posix.wait4(pid, options) -> (pid, status, rusage)
+posix.waitpid(pid, options) -> (pid, status)
+posix.write(fd, string) -> byteswritten
+pow(x, y[, z]) -> number
+property(fget=None, fset=None, fdel=None, doc=None) -> property attribute
+pty.fork() -> (pid, master_fd)
+pty.master_open() -> (master_fd, slave_name)
+pty.openpty() -> (master_fd, slave_fd)
+pty.select(rlist, wlist, xlist[, timeout]) -> (rlist, wlist, xlist)
+pty.slave_open(tty_name) -> slave_fd
+pwd.getpwall() -> list_of_entries
+pwd.getpwnam(name) -> (pw_name,pw_passwd,pw_uid,
+pwd.getpwuid(uid) -> (pw_name,pw_passwd,pw_uid,
+pyclbr.itemgetter(item, ...) -> itemgetter object
+pydoc.deque(iterable[, maxlen]) -> deque object
+pydoc.expandtabs(s [,tabsize]) -> string
+pydoc.find(s, sub [,start [,end]]) -> in
+pydoc.join(list [,sep]) -> string
+pydoc.lower(s) -> string
+pydoc.rfind(s, sub [,start [,end]]) -> int
+pydoc.rstrip(s [,chars]) -> string
+pydoc.split(s [,sep [,maxsplit]]) -> list of strings
+pydoc.strip(s [,chars]) -> string
+pyexpat.ErrorString(errno) -> string
+pyexpat.ParserCreate([encoding[, namespace_separator]]) -> parser
+quopri.b2a_qp(data, quotetabs=0, istext=1, header=0) -> s;
+random.getrandbits(k) -> x.  Generates a long int with k random bits.
+random.jumpahead(int) -> None.  Create new state from existing state and integer.
+random.random() -> x in the interval [0, 1).
+range([start,] stop[, step]) -> list of integers
+raw_input([prompt]) -> string
+reduce(function, sequence[, initial]) -> value
+reload(module) -> module
+repr(object) -> string
+repr.islice(iterable, [start,] stop [, step]) -> islice object
+reversed(sequence) -> reverse iterator over values of the sequence
+round(number[, ndigits]) -> floating point number
+sched.Event(time, priority, action, argument)
+select.select(rlist, wlist, xlist[, timeout]) -> (rlist, wlist, xlist)
+set() -> new empty set object
+setattr(object, name, value)
+sets.ifilter(function or None, sequence) -> ifilter object
+sets.ifilterfalse(function or None, sequence) -> ifilterfalse object
+shelve.Pickler(file, protocol=0) -> Create a pickler.
+shelve.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+shelve.Unpickler(file) -> Create an unpickler.
+shlex.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+shlex.deque(iterable[, maxlen]) -> deque object
+shutil.getgrnam(name) -> tuple
+shutil.getpwnam(name) -> (pw_name,pw_passwd,pw_uid,
+signal.alarm(seconds)
+signal.default_int_handler(...)
+signal.getitimer(which)
+signal.getsignal(sig) -> action
+signal.pause()
+signal.set_wakeup_fd(fd) -> fd
+signal.setitimer(which, seconds[, interval])
+signal.siginterrupt(sig, flag) -> None
+signal.signal(sig, action) -> action
+slice([start,] stop[, step])
+socket.RAND_add(string, entropy)
+socket.RAND_egd(path) -> bytes
+socket.RAND_status() -> 0 or 1
+socket.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+socket.fromfd(fd, family, type[, proto]) -> socket object
+socket.getaddrinfo(host, port [, family, socktype, proto, flags])
+socket.getdefaulttimeout() -> timeout
+socket.gethostbyaddr(host) -> (name, aliaslist, addresslist)
+socket.gethostbyname(host) -> address
+socket.gethostbyname_ex(host) -> (name, aliaslist, addresslist)
+socket.gethostname() -> string
+socket.getnameinfo(sockaddr, flags) -> (host, port)
+socket.getprotobyname(name) -> integer
+socket.getservbyname(servicename[, protocolname]) -> integer
+socket.getservbyport(port[, protocolname]) -> string
+socket.htonl(integer) -> integer
+socket.htons(integer) -> integer
+socket.inet_aton(string) -> packed 32-bit IP representation
+socket.inet_ntoa(packed_ip) -> ip_address_string
+socket.inet_ntop(af, packed_ip) -> string formatted IP address
+socket.inet_pton(af, ip) -> packed IP address string
+socket.ntohl(integer) -> integer
+socket.ntohs(integer) -> integer
+socket.partial(func, *args, **keywords) - new function with partial application
+socket.setdefaulttimeout(timeout)
+socket.socket([family[, type[, proto]]]) -> socket object
+socket.socketpair([family[, type[, proto]]]) -> (socket object, socket object)
+sorted(iterable, cmp=None, key=None, reverse=False) -> new sorted list
+spwd.getspall() -> list_of_entries
+spwd.getspnam(name) -> (sp_namp, sp_pwdp, sp_lstchg, sp_min, sp_max,
+ssl.RAND_add(string, entropy)
+ssl.RAND_egd(path) -> bytes
+ssl.RAND_status() -> 0 or 1
+ssl.socket([family[, type[, proto]]]) -> socket object
+staticmethod(function) -> method
+str(object) -> string
+string.atof(s) -> float
+string.atoi(s [,base]) -> int
+string.atol(s [,base]) -> long
+string.capitalize(s) -> string
+string.capwords(s [,sep]) -> string
+string.center(s, width[, fillchar]) -> string
+string.count(s, sub[, start[,end]]) -> int
+string.expandtabs(s [,tabsize]) -> string
+string.find(s, sub [,start [,end]]) -> in
+string.index(s, sub [,start [,end]]) -> int
+string.join(list [,sep]) -> string
+string.ljust(s, width[, fillchar]) -> string
+string.lower(s) -> string
+string.lstrip(s [,chars]) -> string
+string.maketrans(frm, to) -> string
+string.replace (str, old, new[, maxsplit]) -> string
+string.rfind(s, sub [,start [,end]]) -> int
+string.rindex(s, sub [,start [,end]]) -> int
+string.rjust(s, width[, fillchar]) -> string
+string.rsplit(s [,sep [,maxsplit]]) -> list of strings
+string.rstrip(s [,chars]) -> string
+string.split(s [,sep [,maxsplit]]) -> list of strings
+string.strip(s [,chars]) -> string
+string.swapcase(s) -> string
+string.translate(s,table [,deletions]) -> string
+string.upper(s) -> string
+string.zfill(x, width) -> string
+stringold.atof(s) -> float
+stringold.atoi(s [,base]) -> int
+stringold.atol(s [,base]) -> long
+stringold.capitalize(s) -> string
+stringold.capwords(s, [sep]) -> string
+stringold.center(s, width) -> string
+stringold.count(s, sub[, start[,end]]) -> int
+stringold.expandtabs(s [,tabsize]) -> string
+stringold.find(s, sub [,start [,end]]) -> in
+stringold.index(s, sub [,start [,end]]) -> int
+stringold.join(list [,sep]) -> string
+stringold.ljust(s, width) -> string
+stringold.lower(s) -> string
+stringold.lstrip(s) -> string
+stringold.maketrans(frm, to) -> string
+stringold.replace (str, old, new[, maxsplit]) -> string
+stringold.rfind(s, sub [,start [,end]]) -> int
+stringold.rindex(s, sub [,start [,end]]) -> int
+stringold.rjust(s, width) -> string
+stringold.rstrip(s) -> string
+stringold.split(str [,sep [,maxsplit]]) -> list of strings
+stringold.strip(s) -> string
+stringold.swapcase(s) -> string
+stringold.translate(s,table [,deletechars]) -> string
+stringold.upper(s) -> string
+stringold.zfill(x, width) -> string
+strop.atof(s) -> float
+strop.atoi(s [,base]) -> int
+strop.atol(s [,base]) -> long
+strop.capitalize(s) -> string
+strop.count(s, sub[, start[, end]]) -> int
+strop.expandtabs(string, [tabsize]) -> string
+strop.find(s, sub [,start [,end]]) -> in
+strop.join(list [,sep]) -> string
+strop.lower(s) -> string
+strop.lstrip(s) -> string
+strop.maketrans(frm, to) -> string
+strop.replace (str, old, new[, maxsplit]) -> string
+strop.rfind(s, sub [,start [,end]]) -> int
+strop.rstrip(s) -> string
+strop.split(s [,sep [,maxsplit]]) -> list of strings
+strop.strip(s) -> string
+strop.swapcase(s) -> string
+strop.translate(s,table [,deletechars]) -> string
+strop.upper(s) -> string
+sum(sequence[, start]) -> value
+super(type) -> unbound super object
+sys.call_tracing(func, args) -> object
+sys.callstats() -> tuple of integers
+sys.displayhook(object) -> None
+sys.exc_clear() -> None
+sys.exc_info() -> (type, value, traceback)
+sys.excepthook(exctype, value, traceback) -> None
+sys.exit([status])
+sys.getcheckinterval() -> current check interval; see setcheckinterval().
+sys.getdefaultencoding() -> string
+sys.getdlopenflags() -> int
+sys.getfilesystemencoding() -> string
+sys.getprofile()
+sys.getrecursionlimit()
+sys.getrefcount(object) -> integer
+sys.getsizeof(object, default) -> int
+sys.gettrace()
+sys.setcheckinterval(n)
+sys.setdlopenflags(n) -> None
+sys.setprofile(function)
+sys.setrecursionlimit(n)
+sys.settrace(function)
+tabnanny.check(file_or_dir)
+termios.tcdrain(fd) -> None
+termios.tcflow(fd, action) -> None
+termios.tcflush(fd, queue) -> None
+termios.tcgetattr(fd) -> list_of_attrs
+termios.tcsendbreak(fd, duration) -> None
+termios.tcsetattr(fd, when, attributes) -> None
+thread.allocate_lock() -> lock object
+thread.exit()
+thread.get_ident() -> integer
+thread.interrupt_main()
+thread.stack_size([size]) -> size
+thread.start_new_thread(function, args[, kwargs])
+threading.deque(iterable[, maxlen]) -> deque object
+threading.stack_size([size]) -> size
+time.asctime([tuple]) -> string
+time.clock() -> floating point number
+time.ctime(seconds) -> string
+time.gmtime([seconds]) -> (tm_year, tm_mon, tm_mday, tm_hour, tm_min,
+time.localtime([seconds]) -> (tm_year,tm_mon,tm_mday,tm_hour,tm_min,
+time.mktime(tuple) -> floating point number
+time.sleep(seconds)
+time.strftime(format[, tuple]) -> string
+time.strptime(string, format) -> struct_time
+time.time() -> floating point number
+time.tzset(zone)
+tty.tcdrain(fd) -> None
+tty.tcflow(fd, action) -> None
+tty.tcflush(fd, queue) -> None
+tty.tcgetattr(fd) -> list_of_attrs
+tty.tcsendbreak(fd, duration) -> None
+tty.tcsetattr(fd, when, attributes) -> None
+tuple() -> empty tuple
+type(object) -> the object's type
+unichr(i) -> Unicode character
+unicode(string [, encoding[, errors]]) -> object
+unicodedata.bidirectional(unichr)
+unicodedata.category(unichr)
+unicodedata.combining(unichr)
+unicodedata.decimal(unichr[, default])
+unicodedata.decomposition(unichr)
+unicodedata.digit(unichr[, default])
+unicodedata.east_asian_width(unichr)
+unicodedata.lookup(name)
+unicodedata.mirrored(unichr)
+unicodedata.name(unichr[, default])
+unicodedata.normalize(form, unistr)
+unicodedata.numeric(unichr[, default])
+urllib.quote('abc def') -> 'abc%20def'
+urllib.splitattr('/path;attr1=value1;attr2=value2;...') ->
+urllib.splithost('//host[:port]/path') -> 'host[:port]', '/path'.
+urllib.splitpasswd('user:passwd') -> 'user', 'passwd'.
+urllib.splitport('host:port') -> 'host', 'port'.
+urllib.splitquery('/path?query') -> '/path', 'query'.
+urllib.splittag('/path#tag') -> '/path', 'tag'.
+urllib.splittype('type:opaquestring') -> 'type', 'opaquestring'.
+urllib.splituser('user[:passwd]@host[:port]') -> 'user[:passwd]', 'host[:port]'.
+urllib.splitvalue('attr=value') -> 'attr', 'value'.
+urllib.toBytes(u"URL") -> 'URL'.
+urllib.unquote('abc%20def') -> 'abc def'.
+urllib.unwrap('<URL:type://host/path>') -> 'type://host/path'.
+urllib2.StringIO([s]) -> Return a StringIO-like stream for reading or writing
+urllib2.quote('abc def') -> 'abc%20def'
+urllib2.splitattr('/path;attr1=value1;attr2=value2;...') ->
+urllib2.splithost('//host[:port]/path') -> 'host[:port]', '/path'.
+urllib2.splitpasswd('user:passwd') -> 'user', 'passwd'.
+urllib2.splitport('host:port') -> 'host', 'port'.
+urllib2.splittype('type:opaquestring') -> 'type', 'opaquestring'.
+urllib2.splituser('user[:passwd]@host[:port]') -> 'user[:passwd]', 'host[:port]'.
+urllib2.splitvalue('attr=value') -> 'attr', 'value'.
+urllib2.unquote('abc%20def') -> 'abc def'.
+urllib2.unwrap('<URL:type://host/path>') -> 'type://host/path'.
+urlparse.unquote('abc%20def') -> 'abc def'.
+vars([object]) -> dictionary
+weakref.getweakrefcount(object) -> return the number of weak references
+weakref.getweakrefs(object) -> return a list of all weak reference objects
+weakref.proxy(object[, callback]) -> create a proxy object that weakly
+xml.dom.domreg.getDOMImplementation(name = None, features = ()) -> DOM implementation.
+xml.dom.domreg.registerDOMImplementation(name, factory)
+xml.dom.getDOMImplementation(name = None, features = ()) -> DOM implementation.
+xml.dom.registerDOMImplementation(name, factory)
+xml.parsers.expat.ErrorString(errno) -> string
+xml.parsers.expat.ParserCreate([encoding[, namespace_separator]]) -> parser
+xmlrpclib.getparser() -> parser, unmarshaller
+xrange([start,] stop[, step]) -> xrange object
+zip(seq1 [, seq2 [...]]) -> [(seq1[0], seq2[0] ...), (...)]
+zipfile.crc32(string[, start]) -> Compute a CRC-32 checksum of string.
+zipimport.zipimporter(archivepath) -> zipimporter object
+zlib.adler32(string[, start]) -> Compute an Adler-32 checksum of string.
+zlib.compress(string[, level]) -> Returned compressed string.
+zlib.compressobj([level]) -> Return a compressor object.
+zlib.crc32(string[, start]) -> Compute a CRC-32 checksum of string.
+zlib.decompress(string[, wbits[, bufsize]]) -> Return decompressed string.
+zlib.decompressobj([wbits]) -> Return a decompressor object.

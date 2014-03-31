@@ -1,0 +1,3705 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<AutoComplete>
+		<Environment ignoreCase="no" startFunc="(" stopFunc=")" paramSeparator="," terminal=";" additionalWordChar="." />
+
+		<KeyWord name="False" />
+		<KeyWord name="MSG" />
+		<KeyWord name="None" />
+		<KeyWord name="POINT" />
+		<KeyWord name="PYQT_VERSION" />
+		<KeyWord name="PYQT_VERSION_STR" />
+		<KeyWord name="PyQt4" />
+		<KeyWord name="PyQt4.QtCore" />
+		<KeyWord name="QAbstractAnimation" />
+		<KeyWord name="QAbstractButton" />
+		<KeyWord name="QAbstractEventDispatcher" />
+		<KeyWord name="QAbstractFileEngine" />
+		<KeyWord name="QAbstractFileEngineHandler" />
+		<KeyWord name="QAbstractFileEngineIterator" />
+		<KeyWord name="QAbstractGraphicsShapeItem" />
+		<KeyWord name="QAbstractItemDelegate" />
+		<KeyWord name="QAbstractItemModel" />
+		<KeyWord name="QAbstractItemView" />
+		<KeyWord name="QAbstractListModel" />
+		<KeyWord name="QAbstractPrintDialog" />
+		<KeyWord name="QAbstractProxyModel" />
+		<KeyWord name="QAbstractScrollArea" />
+		<KeyWord name="QAbstractSlider" />
+		<KeyWord name="QAbstractSpinBox" />
+		<KeyWord name="QAbstractState" />
+		<KeyWord name="QAbstractTableModel" />
+		<KeyWord name="QAbstractTextDocumentLayout" />
+		<KeyWord name="QAbstractTransition" />
+		<KeyWord name="QAction" />
+		<KeyWord name="QActionEvent" />
+		<KeyWord name="QActionGroup" />
+		<KeyWord name="QAnimationGroup" />
+		<KeyWord name="QApplication" />
+		<KeyWord name="QBasicTimer" />
+		<KeyWord name="QBitArray" />
+		<KeyWord name="QBitmap" />
+		<KeyWord name="QBoxLayout" />
+		<KeyWord name="QBrush" />
+		<KeyWord name="QBuffer" />
+		<KeyWord name="QButtonGroup" />
+		<KeyWord name="QByteArray" />
+		<KeyWord name="QByteArrayMatcher" />
+		<KeyWord name="QCalendarWidget" />
+		<KeyWord name="QChar" />
+		<KeyWord name="QCheckBox" />
+		<KeyWord name="QChildEvent" />
+		<KeyWord name="QClipboard" />
+		<KeyWord name="QCloseEvent" />
+		<KeyWord name="QColor" />
+		<KeyWord name="QColorDialog" />
+		<KeyWord name="QColumnView" />
+		<KeyWord name="QComboBox" />
+		<KeyWord name="QCommandLinkButton" />
+		<KeyWord name="QCommonStyle" />
+		<KeyWord name="QCompleter" />
+		<KeyWord name="QConicalGradient" />
+		<KeyWord name="QContextMenuEvent" />
+		<KeyWord name="QCoreApplication" />
+		<KeyWord name="QCryptographicHash" />
+		<KeyWord name="QCursor" />
+		<KeyWord name="QDataStream" />
+		<KeyWord name="QDataWidgetMapper" />
+		<KeyWord name="QDate" />
+		<KeyWord name="QDateEdit" />
+		<KeyWord name="QDateTime" />
+		<KeyWord name="QDateTimeEdit" />
+		<KeyWord name="QDesktopServices" />
+		<KeyWord name="QDesktopWidget" />
+		<KeyWord name="QDial" />
+		<KeyWord name="QDialog" />
+		<KeyWord name="QDialogButtonBox" />
+		<KeyWord name="QDir" />
+		<KeyWord name="QDirIterator" />
+		<KeyWord name="QDirModel" />
+		<KeyWord name="QDockWidget" />
+		<KeyWord name="QDoubleSpinBox" />
+		<KeyWord name="QDoubleValidator" />
+		<KeyWord name="QDrag" />
+		<KeyWord name="QDragEnterEvent" />
+		<KeyWord name="QDragLeaveEvent" />
+		<KeyWord name="QDragMoveEvent" />
+		<KeyWord name="QDropEvent" />
+		<KeyWord name="QDynamicPropertyChangeEvent" />
+		<KeyWord name="QEasingCurve" />
+		<KeyWord name="QElapsedTimer" />
+		<KeyWord name="QErrorMessage" />
+		<KeyWord name="QEvent" />
+		<KeyWord name="QEventLoop" />
+		<KeyWord name="QEventTransition" />
+		<KeyWord name="QFSFileEngine" />
+		<KeyWord name="QFile" />
+		<KeyWord name="QFileDialog" />
+		<KeyWord name="QFileIconProvider" />
+		<KeyWord name="QFileInfo" />
+		<KeyWord name="QFileOpenEvent" />
+		<KeyWord name="QFileSystemModel" />
+		<KeyWord name="QFileSystemWatcher" />
+		<KeyWord name="QFinalState" />
+		<KeyWord name="QFocusEvent" />
+		<KeyWord name="QFocusFrame" />
+		<KeyWord name="QFont" />
+		<KeyWord name="QFontComboBox" />
+		<KeyWord name="QFontDatabase" />
+		<KeyWord name="QFontDialog" />
+		<KeyWord name="QFontInfo" />
+		<KeyWord name="QFontMetrics" />
+		<KeyWord name="QFontMetricsF" />
+		<KeyWord name="QFormLayout" />
+		<KeyWord name="QFrame" />
+		<KeyWord name="QGenericArgument" />
+		<KeyWord name="QGenericReturnArgument" />
+		<KeyWord name="QGesture" />
+		<KeyWord name="QGestureEvent" />
+		<KeyWord name="QGestureRecognizer" />
+		<KeyWord name="QGradient" />
+		<KeyWord name="QGraphicsAnchor" />
+		<KeyWord name="QGraphicsAnchorLayout" />
+		<KeyWord name="QGraphicsBlurEffect" />
+		<KeyWord name="QGraphicsColorizeEffect" />
+		<KeyWord name="QGraphicsDropShadowEffect" />
+		<KeyWord name="QGraphicsEffect" />
+		<KeyWord name="QGraphicsEllipseItem" />
+		<KeyWord name="QGraphicsGridLayout" />
+		<KeyWord name="QGraphicsItem" />
+		<KeyWord name="QGraphicsItemAnimation" />
+		<KeyWord name="QGraphicsItemGroup" />
+		<KeyWord name="QGraphicsLayout" />
+		<KeyWord name="QGraphicsLayoutItem" />
+		<KeyWord name="QGraphicsLineItem" />
+		<KeyWord name="QGraphicsLinearLayout" />
+		<KeyWord name="QGraphicsObject" />
+		<KeyWord name="QGraphicsOpacityEffect" />
+		<KeyWord name="QGraphicsPathItem" />
+		<KeyWord name="QGraphicsPixmapItem" />
+		<KeyWord name="QGraphicsPolygonItem" />
+		<KeyWord name="QGraphicsProxyWidget" />
+		<KeyWord name="QGraphicsRectItem" />
+		<KeyWord name="QGraphicsRotation" />
+		<KeyWord name="QGraphicsScale" />
+		<KeyWord name="QGraphicsScene" />
+		<KeyWord name="QGraphicsSceneContextMenuEvent" />
+		<KeyWord name="QGraphicsSceneDragDropEvent" />
+		<KeyWord name="QGraphicsSceneEvent" />
+		<KeyWord name="QGraphicsSceneHelpEvent" />
+		<KeyWord name="QGraphicsSceneHoverEvent" />
+		<KeyWord name="QGraphicsSceneMouseEvent" />
+		<KeyWord name="QGraphicsSceneMoveEvent" />
+		<KeyWord name="QGraphicsSceneResizeEvent" />
+		<KeyWord name="QGraphicsSceneWheelEvent" />
+		<KeyWord name="QGraphicsSimpleTextItem" />
+		<KeyWord name="QGraphicsTextItem" />
+		<KeyWord name="QGraphicsTransform" />
+		<KeyWord name="QGraphicsView" />
+		<KeyWord name="QGraphicsWidget" />
+		<KeyWord name="QGridLayout" />
+		<KeyWord name="QGroupBox" />
+		<KeyWord name="QHBoxLayout" />
+		<KeyWord name="QHeaderView" />
+		<KeyWord name="QHelpEvent" />
+		<KeyWord name="QHideEvent" />
+		<KeyWord name="QHistoryState" />
+		<KeyWord name="QHoverEvent" />
+		<KeyWord name="QIODevice" />
+		<KeyWord name="QIcon" />
+		<KeyWord name="QIconDragEvent" />
+		<KeyWord name="QIconEngine" />
+		<KeyWord name="QIconEngineV2" />
+		<KeyWord name="QImage" />
+		<KeyWord name="QImageIOHandler" />
+		<KeyWord name="QImageReader" />
+		<KeyWord name="QImageWriter" />
+		<KeyWord name="QInputContext" />
+		<KeyWord name="QInputContextFactory" />
+		<KeyWord name="QInputDialog" />
+		<KeyWord name="QInputEvent" />
+		<KeyWord name="QInputMethodEvent" />
+		<KeyWord name="QIntValidator" />
+		<KeyWord name="QItemDelegate" />
+		<KeyWord name="QItemEditorCreatorBase" />
+		<KeyWord name="QItemEditorFactory" />
+		<KeyWord name="QItemSelection" />
+		<KeyWord name="QItemSelectionModel" />
+		<KeyWord name="QItemSelectionRange" />
+		<KeyWord name="QKeyEvent" />
+		<KeyWord name="QKeyEventTransition" />
+		<KeyWord name="QKeySequence" />
+		<KeyWord name="QLCDNumber" />
+		<KeyWord name="QLabel" />
+		<KeyWord name="QLatin1Char" />
+		<KeyWord name="QLatin1String" />
+		<KeyWord name="QLayout" />
+		<KeyWord name="QLayoutItem" />
+		<KeyWord name="QLibrary" />
+		<KeyWord name="QLibraryInfo" />
+		<KeyWord name="QLine" />
+		<KeyWord name="QLineEdit" />
+		<KeyWord name="QLineF" />
+		<KeyWord name="QLinearGradient" />
+		<KeyWord name="QListView" />
+		<KeyWord name="QListWidget" />
+		<KeyWord name="QListWidgetItem" />
+		<KeyWord name="QLocale" />
+		<KeyWord name="QMainWindow" />
+		<KeyWord name="QMargins" />
+		<KeyWord name="QMatrix" />
+		<KeyWord name="QMatrix2x2" />
+		<KeyWord name="QMatrix2x3" />
+		<KeyWord name="QMatrix2x4" />
+		<KeyWord name="QMatrix3x2" />
+		<KeyWord name="QMatrix3x3" />
+		<KeyWord name="QMatrix3x4" />
+		<KeyWord name="QMatrix4x2" />
+		<KeyWord name="QMatrix4x3" />
+		<KeyWord name="QMatrix4x4" />
+		<KeyWord name="QMdiArea" />
+		<KeyWord name="QMdiSubWindow" />
+		<KeyWord name="QMenu" />
+		<KeyWord name="QMenuBar" />
+		<KeyWord name="QMessageBox" />
+		<KeyWord name="QMetaClassInfo" />
+		<KeyWord name="QMetaEnum" />
+		<KeyWord name="QMetaMethod" />
+		<KeyWord name="QMetaObject" />
+		<KeyWord name="QMetaProperty" />
+		<KeyWord name="QMetaType" />
+		<KeyWord name="QMimeData" />
+		<KeyWord name="QMimeSource" />
+		<KeyWord name="QModelIndex" />
+		<KeyWord name="QMouseEvent" />
+		<KeyWord name="QMouseEventTransition" />
+		<KeyWord name="QMoveEvent" />
+		<KeyWord name="QMovie" />
+		<KeyWord name="QMutex" />
+		<KeyWord name="QMutexLocker" />
+		<KeyWord name="QObject" />
+		<KeyWord name="QObjectCleanupHandler" />
+		<KeyWord name="QPageSetupDialog" />
+		<KeyWord name="QPaintDevice" />
+		<KeyWord name="QPaintEngine" />
+		<KeyWord name="QPaintEngineState" />
+		<KeyWord name="QPaintEvent" />
+		<KeyWord name="QPainter" />
+		<KeyWord name="QPainterPath" />
+		<KeyWord name="QPainterPathStroker" />
+		<KeyWord name="QPalette" />
+		<KeyWord name="QPanGesture" />
+		<KeyWord name="QParallelAnimationGroup" />
+		<KeyWord name="QPauseAnimation" />
+		<KeyWord name="QPen" />
+		<KeyWord name="QPersistentModelIndex" />
+		<KeyWord name="QPicture" />
+		<KeyWord name="QPictureIO" />
+		<KeyWord name="QPinchGesture" />
+		<KeyWord name="QPixmap" />
+		<KeyWord name="QPixmapCache" />
+		<KeyWord name="QPlainTextDocumentLayout" />
+		<KeyWord name="QPlainTextEdit" />
+		<KeyWord name="QPluginLoader" />
+		<KeyWord name="QPoint" />
+		<KeyWord name="QPointF" />
+		<KeyWord name="QPolygon" />
+		<KeyWord name="QPolygonF" />
+		<KeyWord name="QPrintDialog" />
+		<KeyWord name="QPrintEngine" />
+		<KeyWord name="QPrintPreviewDialog" />
+		<KeyWord name="QPrintPreviewWidget" />
+		<KeyWord name="QPrinter" />
+		<KeyWord name="QPrinterInfo" />
+		<KeyWord name="QProcess" />
+		<KeyWord name="QProcessEnvironment" />
+		<KeyWord name="QProgressBar" />
+		<KeyWord name="QProgressDialog" />
+		<KeyWord name="QPropertyAnimation" />
+		<KeyWord name="QProxyModel" />
+		<KeyWord name="QPushButton" />
+		<KeyWord name="QPyTextObject" />
+		<KeyWord name="QQuaternion" />
+		<KeyWord name="QRadialGradient" />
+		<KeyWord name="QRadioButton" />
+		<KeyWord name="QReadLocker" />
+		<KeyWord name="QReadWriteLock" />
+		<KeyWord name="QRect" />
+		<KeyWord name="QRectF" />
+		<KeyWord name="QRegExp" />
+		<KeyWord name="QRegExpValidator" />
+		<KeyWord name="QRegion" />
+		<KeyWord name="QResizeEvent" />
+		<KeyWord name="QResource" />
+		<KeyWord name="QRubberBand" />
+		<KeyWord name="QRunnable" />
+		<KeyWord name="QScrollArea" />
+		<KeyWord name="QScrollBar" />
+		<KeyWord name="QSemaphore" />
+		<KeyWord name="QSequentialAnimationGroup" />
+		<KeyWord name="QSessionManager" />
+		<KeyWord name="QSettings" />
+		<KeyWord name="QSharedMemory" />
+		<KeyWord name="QShortcut" />
+		<KeyWord name="QShortcutEvent" />
+		<KeyWord name="QShowEvent" />
+		<KeyWord name="QSignalMapper" />
+		<KeyWord name="QSignalTransition" />
+		<KeyWord name="QSize" />
+		<KeyWord name="QSizeF" />
+		<KeyWord name="QSizeGrip" />
+		<KeyWord name="QSizePolicy" />
+		<KeyWord name="QSlider" />
+		<KeyWord name="QSocketNotifier" />
+		<KeyWord name="QSortFilterProxyModel" />
+		<KeyWord name="QSound" />
+		<KeyWord name="QSpacerItem" />
+		<KeyWord name="QSpinBox" />
+		<KeyWord name="QSplashScreen" />
+		<KeyWord name="QSplitter" />
+		<KeyWord name="QSplitterHandle" />
+		<KeyWord name="QStackedLayout" />
+		<KeyWord name="QStackedWidget" />
+		<KeyWord name="QStandardItem" />
+		<KeyWord name="QStandardItemModel" />
+		<KeyWord name="QState" />
+		<KeyWord name="QStateMachine" />
+		<KeyWord name="QStaticText" />
+		<KeyWord name="QStatusBar" />
+		<KeyWord name="QStatusTipEvent" />
+		<KeyWord name="QString" />
+		<KeyWord name="QStringList" />
+		<KeyWord name="QStringListModel" />
+		<KeyWord name="QStringMatcher" />
+		<KeyWord name="QStringRef" />
+		<KeyWord name="QStyle" />
+		<KeyWord name="QStyleFactory" />
+		<KeyWord name="QStyleHintReturn" />
+		<KeyWord name="QStyleHintReturnMask" />
+		<KeyWord name="QStyleHintReturnVariant" />
+		<KeyWord name="QStyleOption" />
+		<KeyWord name="QStyleOptionButton" />
+		<KeyWord name="QStyleOptionComboBox" />
+		<KeyWord name="QStyleOptionComplex" />
+		<KeyWord name="QStyleOptionDockWidget" />
+		<KeyWord name="QStyleOptionDockWidgetV2" />
+		<KeyWord name="QStyleOptionFocusRect" />
+		<KeyWord name="QStyleOptionFrame" />
+		<KeyWord name="QStyleOptionFrameV2" />
+		<KeyWord name="QStyleOptionFrameV3" />
+		<KeyWord name="QStyleOptionGraphicsItem" />
+		<KeyWord name="QStyleOptionGroupBox" />
+		<KeyWord name="QStyleOptionHeader" />
+		<KeyWord name="QStyleOptionMenuItem" />
+		<KeyWord name="QStyleOptionProgressBar" />
+		<KeyWord name="QStyleOptionProgressBarV2" />
+		<KeyWord name="QStyleOptionRubberBand" />
+		<KeyWord name="QStyleOptionSizeGrip" />
+		<KeyWord name="QStyleOptionSlider" />
+		<KeyWord name="QStyleOptionSpinBox" />
+		<KeyWord name="QStyleOptionTab" />
+		<KeyWord name="QStyleOptionTabBarBase" />
+		<KeyWord name="QStyleOptionTabBarBaseV2" />
+		<KeyWord name="QStyleOptionTabV2" />
+		<KeyWord name="QStyleOptionTabV3" />
+		<KeyWord name="QStyleOptionTabWidgetFrame" />
+		<KeyWord name="QStyleOptionTabWidgetFrameV2" />
+		<KeyWord name="QStyleOptionTitleBar" />
+		<KeyWord name="QStyleOptionToolBar" />
+		<KeyWord name="QStyleOptionToolBox" />
+		<KeyWord name="QStyleOptionToolBoxV2" />
+		<KeyWord name="QStyleOptionToolButton" />
+		<KeyWord name="QStyleOptionViewItem" />
+		<KeyWord name="QStyleOptionViewItemV2" />
+		<KeyWord name="QStyleOptionViewItemV3" />
+		<KeyWord name="QStyleOptionViewItemV4" />
+		<KeyWord name="QStylePainter" />
+		<KeyWord name="QStyledItemDelegate" />
+		<KeyWord name="QSwipeGesture" />
+		<KeyWord name="QSyntaxHighlighter" />
+		<KeyWord name="QSysInfo" />
+		<KeyWord name="QSystemLocale" />
+		<KeyWord name="QSystemSemaphore" />
+		<KeyWord name="QSystemTrayIcon" />
+		<KeyWord name="QT_TRANSLATE_NOOP" />
+		<KeyWord name="QT_TR_NOOP" />
+		<KeyWord name="QT_TR_NOOP_UTF8" />
+		<KeyWord name="QT_VERSION" />
+		<KeyWord name="QT_VERSION_STR" />
+		<KeyWord name="QTabBar" />
+		<KeyWord name="QTabWidget" />
+		<KeyWord name="QTableView" />
+		<KeyWord name="QTableWidget" />
+		<KeyWord name="QTableWidgetItem" />
+		<KeyWord name="QTableWidgetSelectionRange" />
+		<KeyWord name="QTabletEvent" />
+		<KeyWord name="QTapAndHoldGesture" />
+		<KeyWord name="QTapGesture" />
+		<KeyWord name="QTemporaryFile" />
+		<KeyWord name="QTextBlock" />
+		<KeyWord name="QTextBlockFormat" />
+		<KeyWord name="QTextBlockGroup" />
+		<KeyWord name="QTextBlockUserData" />
+		<KeyWord name="QTextBoundaryFinder" />
+		<KeyWord name="QTextBrowser" />
+		<KeyWord name="QTextCharFormat" />
+		<KeyWord name="QTextCodec" />
+		<KeyWord name="QTextCursor" />
+		<KeyWord name="QTextDecoder" />
+		<KeyWord name="QTextDocument" />
+		<KeyWord name="QTextDocumentFragment" />
+		<KeyWord name="QTextDocumentWriter" />
+		<KeyWord name="QTextEdit" />
+		<KeyWord name="QTextEncoder" />
+		<KeyWord name="QTextFormat" />
+		<KeyWord name="QTextFragment" />
+		<KeyWord name="QTextFrame" />
+		<KeyWord name="QTextFrameFormat" />
+		<KeyWord name="QTextImageFormat" />
+		<KeyWord name="QTextInlineObject" />
+		<KeyWord name="QTextItem" />
+		<KeyWord name="QTextLayout" />
+		<KeyWord name="QTextLength" />
+		<KeyWord name="QTextLine" />
+		<KeyWord name="QTextList" />
+		<KeyWord name="QTextListFormat" />
+		<KeyWord name="QTextObject" />
+		<KeyWord name="QTextObjectInterface" />
+		<KeyWord name="QTextOption" />
+		<KeyWord name="QTextStream" />
+		<KeyWord name="QTextStreamManipulator" />
+		<KeyWord name="QTextTable" />
+		<KeyWord name="QTextTableCell" />
+		<KeyWord name="QTextTableCellFormat" />
+		<KeyWord name="QTextTableFormat" />
+		<KeyWord name="QThread" />
+		<KeyWord name="QThreadPool" />
+		<KeyWord name="QTime" />
+		<KeyWord name="QTimeEdit" />
+		<KeyWord name="QTimeLine" />
+		<KeyWord name="QTimer" />
+		<KeyWord name="QTimerEvent" />
+		<KeyWord name="QToolBar" />
+		<KeyWord name="QToolBox" />
+		<KeyWord name="QToolButton" />
+		<KeyWord name="QToolTip" />
+		<KeyWord name="QTouchEvent" />
+		<KeyWord name="QTransform" />
+		<KeyWord name="QTranslator" />
+		<KeyWord name="QTreeView" />
+		<KeyWord name="QTreeWidget" />
+		<KeyWord name="QTreeWidgetItem" />
+		<KeyWord name="QTreeWidgetItemIterator" />
+		<KeyWord name="QUndoCommand" />
+		<KeyWord name="QUndoGroup" />
+		<KeyWord name="QUndoStack" />
+		<KeyWord name="QUndoView" />
+		<KeyWord name="QUrl" />
+		<KeyWord name="QUuid" />
+		<KeyWord name="QVBoxLayout" />
+		<KeyWord name="QValidator" />
+		<KeyWord name="QVariant" />
+		<KeyWord name="QVariantAnimation" />
+		<KeyWord name="QVector2D" />
+		<KeyWord name="QVector3D" />
+		<KeyWord name="QVector4D" />
+		<KeyWord name="QWaitCondition" />
+		<KeyWord name="QWhatsThis" />
+		<KeyWord name="QWhatsThisClickedEvent" />
+		<KeyWord name="QWheelEvent" />
+		<KeyWord name="QWidget" />
+		<KeyWord name="QWidgetAction" />
+		<KeyWord name="QWidgetItem" />
+		<KeyWord name="QWindowStateChangeEvent" />
+		<KeyWord name="QWizard" />
+		<KeyWord name="QWizardPage" />
+		<KeyWord name="QWorkspace" />
+		<KeyWord name="QWriteLocker" />
+		<KeyWord name="QXmlStreamAttribute" />
+		<KeyWord name="QXmlStreamAttributes" />
+		<KeyWord name="QXmlStreamEntityDeclaration" />
+		<KeyWord name="QXmlStreamEntityResolver" />
+		<KeyWord name="QXmlStreamNamespaceDeclaration" />
+		<KeyWord name="QXmlStreamNotationDeclaration" />
+		<KeyWord name="QXmlStreamReader" />
+		<KeyWord name="QXmlStreamWriter" />
+		<KeyWord name="Q_ARG" />
+		<KeyWord name="Q_ENUMS" />
+		<KeyWord name="Q_FLAGS" />
+		<KeyWord name="Q_RETURN_ARG" />
+		<KeyWord name="Qt" />
+		<KeyWord name="Qt.AA_DontCreateNativeWidgetSiblings" />
+		<KeyWord name="Qt.AA_DontShowIconsInMenus" />
+		<KeyWord name="Qt.AA_DontUseNativeMenuBar" />
+		<KeyWord name="Qt.AA_ImmediateWidgetCreation" />
+		<KeyWord name="Qt.AA_MSWindowsUseDirect3DByDefault" />
+		<KeyWord name="Qt.AA_MacDontSwapCtrlAndMeta" />
+		<KeyWord name="Qt.AA_MacPluginApplication" />
+		<KeyWord name="Qt.AA_NativeWindows" />
+		<KeyWord name="Qt.AA_S60DisablePartialScreenInputMode" />
+		<KeyWord name="Qt.AA_S60DontConstructApplicationPanes" />
+		<KeyWord name="Qt.ALT" />
+		<KeyWord name="Qt.AbsoluteSize" />
+		<KeyWord name="Qt.AccessibleDescriptionRole" />
+		<KeyWord name="Qt.AccessibleTextRole" />
+		<KeyWord name="Qt.ActionMask" />
+		<KeyWord name="Qt.ActionsContextMenu" />
+		<KeyWord name="Qt.ActiveWindowFocusReason" />
+		<KeyWord name="Qt.AlignAbsolute" />
+		<KeyWord name="Qt.AlignBottom" />
+		<KeyWord name="Qt.AlignCenter" />
+		<KeyWord name="Qt.AlignHCenter" />
+		<KeyWord name="Qt.AlignHorizontal_Mask" />
+		<KeyWord name="Qt.AlignJustify" />
+		<KeyWord name="Qt.AlignLeading" />
+		<KeyWord name="Qt.AlignLeft" />
+		<KeyWord name="Qt.AlignRight" />
+		<KeyWord name="Qt.AlignTop" />
+		<KeyWord name="Qt.AlignTrailing" />
+		<KeyWord name="Qt.AlignVCenter" />
+		<KeyWord name="Qt.AlignVertical_Mask" />
+		<KeyWord name="Qt.Alignment" />
+		<KeyWord name="Qt.AlignmentFlag" />
+		<KeyWord name="Qt.AllDockWidgetAreas" />
+		<KeyWord name="Qt.AllToolBarAreas" />
+		<KeyWord name="Qt.AltModifier" />
+		<KeyWord name="Qt.AnchorAttribute" />
+		<KeyWord name="Qt.AnchorBottom" />
+		<KeyWord name="Qt.AnchorHorizontalCenter" />
+		<KeyWord name="Qt.AnchorHref" />
+		<KeyWord name="Qt.AnchorLeft" />
+		<KeyWord name="Qt.AnchorName" />
+		<KeyWord name="Qt.AnchorPoint" />
+		<KeyWord name="Qt.AnchorRight" />
+		<KeyWord name="Qt.AnchorTop" />
+		<KeyWord name="Qt.AnchorVerticalCenter" />
+		<KeyWord name="Qt.ApplicationAttribute" />
+		<KeyWord name="Qt.ApplicationModal" />
+		<KeyWord name="Qt.ApplicationShortcut" />
+		<KeyWord name="Qt.ArrowCursor" />
+		<KeyWord name="Qt.ArrowType" />
+		<KeyWord name="Qt.AscendingOrder" />
+		<KeyWord name="Qt.AspectRatioMode" />
+		<KeyWord name="Qt.AutoColor" />
+		<KeyWord name="Qt.AutoCompatConnection" />
+		<KeyWord name="Qt.AutoConnection" />
+		<KeyWord name="Qt.AutoDither" />
+		<KeyWord name="Qt.AutoText" />
+		<KeyWord name="Qt.AvoidDither" />
+		<KeyWord name="Qt.Axis" />
+		<KeyWord name="Qt.BDiagPattern" />
+		<KeyWord name="Qt.BGMode" />
+		<KeyWord name="Qt.BackgroundColorRole" />
+		<KeyWord name="Qt.BackgroundRole" />
+		<KeyWord name="Qt.BacktabFocusReason" />
+		<KeyWord name="Qt.BevelJoin" />
+		<KeyWord name="Qt.BitmapCursor" />
+		<KeyWord name="Qt.BlankCursor" />
+		<KeyWord name="Qt.BlockingQueuedConnection" />
+		<KeyWord name="Qt.BottomDockWidgetArea" />
+		<KeyWord name="Qt.BottomLeftCorner" />
+		<KeyWord name="Qt.BottomLeftSection" />
+		<KeyWord name="Qt.BottomRightCorner" />
+		<KeyWord name="Qt.BottomRightSection" />
+		<KeyWord name="Qt.BottomSection" />
+		<KeyWord name="Qt.BottomToolBarArea" />
+		<KeyWord name="Qt.BrushStyle" />
+		<KeyWord name="Qt.BusyCursor" />
+		<KeyWord name="Qt.BypassGraphicsProxyWidget" />
+		<KeyWord name="Qt.CTRL" />
+		<KeyWord name="Qt.CaseInsensitive" />
+		<KeyWord name="Qt.CaseSensitive" />
+		<KeyWord name="Qt.CaseSensitivity" />
+		<KeyWord name="Qt.CheckState" />
+		<KeyWord name="Qt.CheckStateRole" />
+		<KeyWord name="Qt.Checked" />
+		<KeyWord name="Qt.ClickFocus" />
+		<KeyWord name="Qt.ClipOperation" />
+		<KeyWord name="Qt.ClosedHandCursor" />
+		<KeyWord name="Qt.ColorOnly" />
+		<KeyWord name="Qt.ConicalGradientPattern" />
+		<KeyWord name="Qt.ConnectionType" />
+		<KeyWord name="Qt.ContainsItemBoundingRect" />
+		<KeyWord name="Qt.ContainsItemShape" />
+		<KeyWord name="Qt.ContextMenuPolicy" />
+		<KeyWord name="Qt.ControlModifier" />
+		<KeyWord name="Qt.CoordinateSystem" />
+		<KeyWord name="Qt.CopyAction" />
+		<KeyWord name="Qt.Corner" />
+		<KeyWord name="Qt.CrossCursor" />
+		<KeyWord name="Qt.CrossPattern" />
+		<KeyWord name="Qt.CursorShape" />
+		<KeyWord name="Qt.CustomContextMenu" />
+		<KeyWord name="Qt.CustomCursor" />
+		<KeyWord name="Qt.CustomDashLine" />
+		<KeyWord name="Qt.CustomGesture" />
+		<KeyWord name="Qt.CustomizeWindowHint" />
+		<KeyWord name="Qt.DashDotDotLine" />
+		<KeyWord name="Qt.DashDotLine" />
+		<KeyWord name="Qt.DashLine" />
+		<KeyWord name="Qt.DateFormat" />
+		<KeyWord name="Qt.DayOfWeek" />
+		<KeyWord name="Qt.DecorationRole" />
+		<KeyWord name="Qt.DefaultContextMenu" />
+		<KeyWord name="Qt.DefaultLocaleLongDate" />
+		<KeyWord name="Qt.DefaultLocaleShortDate" />
+		<KeyWord name="Qt.Dense1Pattern" />
+		<KeyWord name="Qt.Dense2Pattern" />
+		<KeyWord name="Qt.Dense3Pattern" />
+		<KeyWord name="Qt.Dense4Pattern" />
+		<KeyWord name="Qt.Dense5Pattern" />
+		<KeyWord name="Qt.Dense6Pattern" />
+		<KeyWord name="Qt.Dense7Pattern" />
+		<KeyWord name="Qt.DescendingOrder" />
+		<KeyWord name="Qt.Desktop" />
+		<KeyWord name="Qt.DeviceCoordinates" />
+		<KeyWord name="Qt.DiagCrossPattern" />
+		<KeyWord name="Qt.Dialog" />
+		<KeyWord name="Qt.DiffuseAlphaDither" />
+		<KeyWord name="Qt.DiffuseDither" />
+		<KeyWord name="Qt.DirectConnection" />
+		<KeyWord name="Qt.DisplayRole" />
+		<KeyWord name="Qt.DockWidgetArea" />
+		<KeyWord name="Qt.DockWidgetArea_Mask" />
+		<KeyWord name="Qt.DockWidgetAreas" />
+		<KeyWord name="Qt.DontStartGestureOnChildren" />
+		<KeyWord name="Qt.DotLine" />
+		<KeyWord name="Qt.DownArrow" />
+		<KeyWord name="Qt.DragCopyCursor" />
+		<KeyWord name="Qt.DragLinkCursor" />
+		<KeyWord name="Qt.DragMoveCursor" />
+		<KeyWord name="Qt.Drawer" />
+		<KeyWord name="Qt.DropAction" />
+		<KeyWord name="Qt.DropActions" />
+		<KeyWord name="Qt.EditRole" />
+		<KeyWord name="Qt.ElideLeft" />
+		<KeyWord name="Qt.ElideMiddle" />
+		<KeyWord name="Qt.ElideNone" />
+		<KeyWord name="Qt.ElideRight" />
+		<KeyWord name="Qt.EventPriority" />
+		<KeyWord name="Qt.ExactHit" />
+		<KeyWord name="Qt.FDiagPattern" />
+		<KeyWord name="Qt.FastTransformation" />
+		<KeyWord name="Qt.FillRule" />
+		<KeyWord name="Qt.FlatCap" />
+		<KeyWord name="Qt.FocusPolicy" />
+		<KeyWord name="Qt.FocusReason" />
+		<KeyWord name="Qt.FontRole" />
+		<KeyWord name="Qt.ForbiddenCursor" />
+		<KeyWord name="Qt.ForegroundRole" />
+		<KeyWord name="Qt.FramelessWindowHint" />
+		<KeyWord name="Qt.Friday" />
+		<KeyWord name="Qt.FuzzyHit" />
+		<KeyWord name="Qt.GestureCanceled" />
+		<KeyWord name="Qt.GestureFinished" />
+		<KeyWord name="Qt.GestureFlag" />
+		<KeyWord name="Qt.GestureFlags" />
+		<KeyWord name="Qt.GestureStarted" />
+		<KeyWord name="Qt.GestureState" />
+		<KeyWord name="Qt.GestureType" />
+		<KeyWord name="Qt.GestureUpdated" />
+		<KeyWord name="Qt.GlobalColor" />
+		<KeyWord name="Qt.GroupSwitchModifier" />
+		<KeyWord name="Qt.HighEventPriority" />
+		<KeyWord name="Qt.HitTestAccuracy" />
+		<KeyWord name="Qt.HorPattern" />
+		<KeyWord name="Qt.Horizontal" />
+		<KeyWord name="Qt.IBeamCursor" />
+		<KeyWord name="Qt.ISODate" />
+		<KeyWord name="Qt.IgnoreAction" />
+		<KeyWord name="Qt.IgnoreAspectRatio" />
+		<KeyWord name="Qt.IgnoredGesturesPropagateToParent" />
+		<KeyWord name="Qt.ImAnchorPosition" />
+		<KeyWord name="Qt.ImCurrentSelection" />
+		<KeyWord name="Qt.ImCursorPosition" />
+		<KeyWord name="Qt.ImFont" />
+		<KeyWord name="Qt.ImMaximumTextLength" />
+		<KeyWord name="Qt.ImMicroFocus" />
+		<KeyWord name="Qt.ImSurroundingText" />
+		<KeyWord name="Qt.ImageConversionFlag" />
+		<KeyWord name="Qt.ImageConversionFlags" />
+		<KeyWord name="Qt.ImhDialableCharactersOnly" />
+		<KeyWord name="Qt.ImhDigitsOnly" />
+		<KeyWord name="Qt.ImhEmailCharactersOnly" />
+		<KeyWord name="Qt.ImhExclusiveInputMask" />
+		<KeyWord name="Qt.ImhFormattedNumbersOnly" />
+		<KeyWord name="Qt.ImhHiddenText" />
+		<KeyWord name="Qt.ImhLowercaseOnly" />
+		<KeyWord name="Qt.ImhNoAutoUppercase" />
+		<KeyWord name="Qt.ImhNoPredictiveText" />
+		<KeyWord name="Qt.ImhNone" />
+		<KeyWord name="Qt.ImhPreferLowercase" />
+		<KeyWord name="Qt.ImhPreferNumbers" />
+		<KeyWord name="Qt.ImhPreferUppercase" />
+		<KeyWord name="Qt.ImhUppercaseOnly" />
+		<KeyWord name="Qt.ImhUrlCharactersOnly" />
+		<KeyWord name="Qt.InputMethodHint" />
+		<KeyWord name="Qt.InputMethodHints" />
+		<KeyWord name="Qt.InputMethodQuery" />
+		<KeyWord name="Qt.IntersectClip" />
+		<KeyWord name="Qt.IntersectsItemBoundingRect" />
+		<KeyWord name="Qt.IntersectsItemShape" />
+		<KeyWord name="Qt.ItemDataRole" />
+		<KeyWord name="Qt.ItemFlag" />
+		<KeyWord name="Qt.ItemFlags" />
+		<KeyWord name="Qt.ItemIsDragEnabled" />
+		<KeyWord name="Qt.ItemIsDropEnabled" />
+		<KeyWord name="Qt.ItemIsEditable" />
+		<KeyWord name="Qt.ItemIsEnabled" />
+		<KeyWord name="Qt.ItemIsSelectable" />
+		<KeyWord name="Qt.ItemIsTristate" />
+		<KeyWord name="Qt.ItemIsUserCheckable" />
+		<KeyWord name="Qt.ItemSelectionMode" />
+		<KeyWord name="Qt.KeepAspectRatio" />
+		<KeyWord name="Qt.KeepAspectRatioByExpanding" />
+		<KeyWord name="Qt.Key" />
+		<KeyWord name="Qt.Key_0" />
+		<KeyWord name="Qt.Key_1" />
+		<KeyWord name="Qt.Key_2" />
+		<KeyWord name="Qt.Key_3" />
+		<KeyWord name="Qt.Key_4" />
+		<KeyWord name="Qt.Key_5" />
+		<KeyWord name="Qt.Key_6" />
+		<KeyWord name="Qt.Key_7" />
+		<KeyWord name="Qt.Key_8" />
+		<KeyWord name="Qt.Key_9" />
+		<KeyWord name="Qt.Key_A" />
+		<KeyWord name="Qt.Key_AE" />
+		<KeyWord name="Qt.Key_Aacute" />
+		<KeyWord name="Qt.Key_Acircumflex" />
+		<KeyWord name="Qt.Key_AddFavorite" />
+		<KeyWord name="Qt.Key_Adiaeresis" />
+		<KeyWord name="Qt.Key_Agrave" />
+		<KeyWord name="Qt.Key_Alt" />
+		<KeyWord name="Qt.Key_AltGr" />
+		<KeyWord name="Qt.Key_Ampersand" />
+		<KeyWord name="Qt.Key_Any" />
+		<KeyWord name="Qt.Key_Apostrophe" />
+		<KeyWord name="Qt.Key_ApplicationLeft" />
+		<KeyWord name="Qt.Key_ApplicationRight" />
+		<KeyWord name="Qt.Key_Aring" />
+		<KeyWord name="Qt.Key_AsciiCircum" />
+		<KeyWord name="Qt.Key_AsciiTilde" />
+		<KeyWord name="Qt.Key_Asterisk" />
+		<KeyWord name="Qt.Key_At" />
+		<KeyWord name="Qt.Key_Atilde" />
+		<KeyWord name="Qt.Key_AudioCycleTrack" />
+		<KeyWord name="Qt.Key_AudioForward" />
+		<KeyWord name="Qt.Key_AudioRandomPlay" />
+		<KeyWord name="Qt.Key_AudioRepeat" />
+		<KeyWord name="Qt.Key_AudioRewind" />
+		<KeyWord name="Qt.Key_Away" />
+		<KeyWord name="Qt.Key_B" />
+		<KeyWord name="Qt.Key_Back" />
+		<KeyWord name="Qt.Key_BackForward" />
+		<KeyWord name="Qt.Key_Backslash" />
+		<KeyWord name="Qt.Key_Backspace" />
+		<KeyWord name="Qt.Key_Backtab" />
+		<KeyWord name="Qt.Key_Bar" />
+		<KeyWord name="Qt.Key_BassBoost" />
+		<KeyWord name="Qt.Key_BassDown" />
+		<KeyWord name="Qt.Key_BassUp" />
+		<KeyWord name="Qt.Key_Battery" />
+		<KeyWord name="Qt.Key_Bluetooth" />
+		<KeyWord name="Qt.Key_Book" />
+		<KeyWord name="Qt.Key_BraceLeft" />
+		<KeyWord name="Qt.Key_BraceRight" />
+		<KeyWord name="Qt.Key_BracketLeft" />
+		<KeyWord name="Qt.Key_BracketRight" />
+		<KeyWord name="Qt.Key_BrightnessAdjust" />
+		<KeyWord name="Qt.Key_C" />
+		<KeyWord name="Qt.Key_CD" />
+		<KeyWord name="Qt.Key_Calculator" />
+		<KeyWord name="Qt.Key_Calendar" />
+		<KeyWord name="Qt.Key_Call" />
+		<KeyWord name="Qt.Key_Camera" />
+		<KeyWord name="Qt.Key_CameraFocus" />
+		<KeyWord name="Qt.Key_Cancel" />
+		<KeyWord name="Qt.Key_CapsLock" />
+		<KeyWord name="Qt.Key_Ccedilla" />
+		<KeyWord name="Qt.Key_Clear" />
+		<KeyWord name="Qt.Key_ClearGrab" />
+		<KeyWord name="Qt.Key_Close" />
+		<KeyWord name="Qt.Key_Codeinput" />
+		<KeyWord name="Qt.Key_Colon" />
+		<KeyWord name="Qt.Key_Comma" />
+		<KeyWord name="Qt.Key_Community" />
+		<KeyWord name="Qt.Key_Context1" />
+		<KeyWord name="Qt.Key_Context2" />
+		<KeyWord name="Qt.Key_Context3" />
+		<KeyWord name="Qt.Key_Context4" />
+		<KeyWord name="Qt.Key_ContrastAdjust" />
+		<KeyWord name="Qt.Key_Control" />
+		<KeyWord name="Qt.Key_Copy" />
+		<KeyWord name="Qt.Key_Cut" />
+		<KeyWord name="Qt.Key_D" />
+		<KeyWord name="Qt.Key_DOS" />
+		<KeyWord name="Qt.Key_Dead_Abovedot" />
+		<KeyWord name="Qt.Key_Dead_Abovering" />
+		<KeyWord name="Qt.Key_Dead_Acute" />
+		<KeyWord name="Qt.Key_Dead_Belowdot" />
+		<KeyWord name="Qt.Key_Dead_Breve" />
+		<KeyWord name="Qt.Key_Dead_Caron" />
+		<KeyWord name="Qt.Key_Dead_Cedilla" />
+		<KeyWord name="Qt.Key_Dead_Circumflex" />
+		<KeyWord name="Qt.Key_Dead_Diaeresis" />
+		<KeyWord name="Qt.Key_Dead_Doubleacute" />
+		<KeyWord name="Qt.Key_Dead_Grave" />
+		<KeyWord name="Qt.Key_Dead_Hook" />
+		<KeyWord name="Qt.Key_Dead_Horn" />
+		<KeyWord name="Qt.Key_Dead_Iota" />
+		<KeyWord name="Qt.Key_Dead_Macron" />
+		<KeyWord name="Qt.Key_Dead_Ogonek" />
+		<KeyWord name="Qt.Key_Dead_Semivoiced_Sound" />
+		<KeyWord name="Qt.Key_Dead_Tilde" />
+		<KeyWord name="Qt.Key_Dead_Voiced_Sound" />
+		<KeyWord name="Qt.Key_Delete" />
+		<KeyWord name="Qt.Key_Direction_L" />
+		<KeyWord name="Qt.Key_Direction_R" />
+		<KeyWord name="Qt.Key_Display" />
+		<KeyWord name="Qt.Key_Documents" />
+		<KeyWord name="Qt.Key_Dollar" />
+		<KeyWord name="Qt.Key_Down" />
+		<KeyWord name="Qt.Key_E" />
+		<KeyWord name="Qt.Key_ETH" />
+		<KeyWord name="Qt.Key_Eacute" />
+		<KeyWord name="Qt.Key_Ecircumflex" />
+		<KeyWord name="Qt.Key_Ediaeresis" />
+		<KeyWord name="Qt.Key_Egrave" />
+		<KeyWord name="Qt.Key_Eisu_Shift" />
+		<KeyWord name="Qt.Key_Eisu_toggle" />
+		<KeyWord name="Qt.Key_Eject" />
+		<KeyWord name="Qt.Key_End" />
+		<KeyWord name="Qt.Key_Enter" />
+		<KeyWord name="Qt.Key_Equal" />
+		<KeyWord name="Qt.Key_Escape" />
+		<KeyWord name="Qt.Key_Excel" />
+		<KeyWord name="Qt.Key_Exclam" />
+		<KeyWord name="Qt.Key_Execute" />
+		<KeyWord name="Qt.Key_Explorer" />
+		<KeyWord name="Qt.Key_F" />
+		<KeyWord name="Qt.Key_F1" />
+		<KeyWord name="Qt.Key_F10" />
+		<KeyWord name="Qt.Key_F11" />
+		<KeyWord name="Qt.Key_F12" />
+		<KeyWord name="Qt.Key_F13" />
+		<KeyWord name="Qt.Key_F14" />
+		<KeyWord name="Qt.Key_F15" />
+		<KeyWord name="Qt.Key_F16" />
+		<KeyWord name="Qt.Key_F17" />
+		<KeyWord name="Qt.Key_F18" />
+		<KeyWord name="Qt.Key_F19" />
+		<KeyWord name="Qt.Key_F2" />
+		<KeyWord name="Qt.Key_F20" />
+		<KeyWord name="Qt.Key_F21" />
+		<KeyWord name="Qt.Key_F22" />
+		<KeyWord name="Qt.Key_F23" />
+		<KeyWord name="Qt.Key_F24" />
+		<KeyWord name="Qt.Key_F25" />
+		<KeyWord name="Qt.Key_F26" />
+		<KeyWord name="Qt.Key_F27" />
+		<KeyWord name="Qt.Key_F28" />
+		<KeyWord name="Qt.Key_F29" />
+		<KeyWord name="Qt.Key_F3" />
+		<KeyWord name="Qt.Key_F30" />
+		<KeyWord name="Qt.Key_F31" />
+		<KeyWord name="Qt.Key_F32" />
+		<KeyWord name="Qt.Key_F33" />
+		<KeyWord name="Qt.Key_F34" />
+		<KeyWord name="Qt.Key_F35" />
+		<KeyWord name="Qt.Key_F4" />
+		<KeyWord name="Qt.Key_F5" />
+		<KeyWord name="Qt.Key_F6" />
+		<KeyWord name="Qt.Key_F7" />
+		<KeyWord name="Qt.Key_F8" />
+		<KeyWord name="Qt.Key_F9" />
+		<KeyWord name="Qt.Key_Favorites" />
+		<KeyWord name="Qt.Key_Finance" />
+		<KeyWord name="Qt.Key_Flip" />
+		<KeyWord name="Qt.Key_Forward" />
+		<KeyWord name="Qt.Key_G" />
+		<KeyWord name="Qt.Key_Game" />
+		<KeyWord name="Qt.Key_Go" />
+		<KeyWord name="Qt.Key_Greater" />
+		<KeyWord name="Qt.Key_H" />
+		<KeyWord name="Qt.Key_Hangul" />
+		<KeyWord name="Qt.Key_Hangul_Banja" />
+		<KeyWord name="Qt.Key_Hangul_End" />
+		<KeyWord name="Qt.Key_Hangul_Hanja" />
+		<KeyWord name="Qt.Key_Hangul_Jamo" />
+		<KeyWord name="Qt.Key_Hangul_Jeonja" />
+		<KeyWord name="Qt.Key_Hangul_PostHanja" />
+		<KeyWord name="Qt.Key_Hangul_PreHanja" />
+		<KeyWord name="Qt.Key_Hangul_Romaja" />
+		<KeyWord name="Qt.Key_Hangul_Special" />
+		<KeyWord name="Qt.Key_Hangul_Start" />
+		<KeyWord name="Qt.Key_Hangup" />
+		<KeyWord name="Qt.Key_Hankaku" />
+		<KeyWord name="Qt.Key_Help" />
+		<KeyWord name="Qt.Key_Henkan" />
+		<KeyWord name="Qt.Key_Hibernate" />
+		<KeyWord name="Qt.Key_Hiragana" />
+		<KeyWord name="Qt.Key_Hiragana_Katakana" />
+		<KeyWord name="Qt.Key_History" />
+		<KeyWord name="Qt.Key_Home" />
+		<KeyWord name="Qt.Key_HomePage" />
+		<KeyWord name="Qt.Key_HotLinks" />
+		<KeyWord name="Qt.Key_Hyper_L" />
+		<KeyWord name="Qt.Key_Hyper_R" />
+		<KeyWord name="Qt.Key_I" />
+		<KeyWord name="Qt.Key_Iacute" />
+		<KeyWord name="Qt.Key_Icircumflex" />
+		<KeyWord name="Qt.Key_Idiaeresis" />
+		<KeyWord name="Qt.Key_Igrave" />
+		<KeyWord name="Qt.Key_Insert" />
+		<KeyWord name="Qt.Key_J" />
+		<KeyWord name="Qt.Key_K" />
+		<KeyWord name="Qt.Key_Kana_Lock" />
+		<KeyWord name="Qt.Key_Kana_Shift" />
+		<KeyWord name="Qt.Key_Kanji" />
+		<KeyWord name="Qt.Key_Katakana" />
+		<KeyWord name="Qt.Key_KeyboardBrightnessDown" />
+		<KeyWord name="Qt.Key_KeyboardBrightnessUp" />
+		<KeyWord name="Qt.Key_KeyboardLightOnOff" />
+		<KeyWord name="Qt.Key_L" />
+		<KeyWord name="Qt.Key_LastNumberRedial" />
+		<KeyWord name="Qt.Key_Launch0" />
+		<KeyWord name="Qt.Key_Launch1" />
+		<KeyWord name="Qt.Key_Launch2" />
+		<KeyWord name="Qt.Key_Launch3" />
+		<KeyWord name="Qt.Key_Launch4" />
+		<KeyWord name="Qt.Key_Launch5" />
+		<KeyWord name="Qt.Key_Launch6" />
+		<KeyWord name="Qt.Key_Launch7" />
+		<KeyWord name="Qt.Key_Launch8" />
+		<KeyWord name="Qt.Key_Launch9" />
+		<KeyWord name="Qt.Key_LaunchA" />
+		<KeyWord name="Qt.Key_LaunchB" />
+		<KeyWord name="Qt.Key_LaunchC" />
+		<KeyWord name="Qt.Key_LaunchD" />
+		<KeyWord name="Qt.Key_LaunchE" />
+		<KeyWord name="Qt.Key_LaunchF" />
+		<KeyWord name="Qt.Key_LaunchG" />
+		<KeyWord name="Qt.Key_LaunchH" />
+		<KeyWord name="Qt.Key_LaunchMail" />
+		<KeyWord name="Qt.Key_LaunchMedia" />
+		<KeyWord name="Qt.Key_Left" />
+		<KeyWord name="Qt.Key_Less" />
+		<KeyWord name="Qt.Key_LightBulb" />
+		<KeyWord name="Qt.Key_LogOff" />
+		<KeyWord name="Qt.Key_M" />
+		<KeyWord name="Qt.Key_MailForward" />
+		<KeyWord name="Qt.Key_Market" />
+		<KeyWord name="Qt.Key_Massyo" />
+		<KeyWord name="Qt.Key_MediaLast" />
+		<KeyWord name="Qt.Key_MediaNext" />
+		<KeyWord name="Qt.Key_MediaPause" />
+		<KeyWord name="Qt.Key_MediaPlay" />
+		<KeyWord name="Qt.Key_MediaPrevious" />
+		<KeyWord name="Qt.Key_MediaRecord" />
+		<KeyWord name="Qt.Key_MediaStop" />
+		<KeyWord name="Qt.Key_MediaTogglePlayPause" />
+		<KeyWord name="Qt.Key_Meeting" />
+		<KeyWord name="Qt.Key_Memo" />
+		<KeyWord name="Qt.Key_Menu" />
+		<KeyWord name="Qt.Key_MenuKB" />
+		<KeyWord name="Qt.Key_MenuPB" />
+		<KeyWord name="Qt.Key_Messenger" />
+		<KeyWord name="Qt.Key_Meta" />
+		<KeyWord name="Qt.Key_Minus" />
+		<KeyWord name="Qt.Key_Mode_switch" />
+		<KeyWord name="Qt.Key_MonBrightnessDown" />
+		<KeyWord name="Qt.Key_MonBrightnessUp" />
+		<KeyWord name="Qt.Key_Muhenkan" />
+		<KeyWord name="Qt.Key_Multi_key" />
+		<KeyWord name="Qt.Key_MultipleCandidate" />
+		<KeyWord name="Qt.Key_Music" />
+		<KeyWord name="Qt.Key_MySites" />
+		<KeyWord name="Qt.Key_N" />
+		<KeyWord name="Qt.Key_News" />
+		<KeyWord name="Qt.Key_No" />
+		<KeyWord name="Qt.Key_Ntilde" />
+		<KeyWord name="Qt.Key_NumLock" />
+		<KeyWord name="Qt.Key_NumberSign" />
+		<KeyWord name="Qt.Key_O" />
+		<KeyWord name="Qt.Key_Oacute" />
+		<KeyWord name="Qt.Key_Ocircumflex" />
+		<KeyWord name="Qt.Key_Odiaeresis" />
+		<KeyWord name="Qt.Key_OfficeHome" />
+		<KeyWord name="Qt.Key_Ograve" />
+		<KeyWord name="Qt.Key_Ooblique" />
+		<KeyWord name="Qt.Key_OpenUrl" />
+		<KeyWord name="Qt.Key_Option" />
+		<KeyWord name="Qt.Key_Otilde" />
+		<KeyWord name="Qt.Key_P" />
+		<KeyWord name="Qt.Key_PageDown" />
+		<KeyWord name="Qt.Key_PageUp" />
+		<KeyWord name="Qt.Key_ParenLeft" />
+		<KeyWord name="Qt.Key_ParenRight" />
+		<KeyWord name="Qt.Key_Paste" />
+		<KeyWord name="Qt.Key_Pause" />
+		<KeyWord name="Qt.Key_Percent" />
+		<KeyWord name="Qt.Key_Period" />
+		<KeyWord name="Qt.Key_Phone" />
+		<KeyWord name="Qt.Key_Pictures" />
+		<KeyWord name="Qt.Key_Play" />
+		<KeyWord name="Qt.Key_Plus" />
+		<KeyWord name="Qt.Key_PowerDown" />
+		<KeyWord name="Qt.Key_PowerOff" />
+		<KeyWord name="Qt.Key_PreviousCandidate" />
+		<KeyWord name="Qt.Key_Print" />
+		<KeyWord name="Qt.Key_Printer" />
+		<KeyWord name="Qt.Key_Q" />
+		<KeyWord name="Qt.Key_Question" />
+		<KeyWord name="Qt.Key_QuoteDbl" />
+		<KeyWord name="Qt.Key_QuoteLeft" />
+		<KeyWord name="Qt.Key_R" />
+		<KeyWord name="Qt.Key_Refresh" />
+		<KeyWord name="Qt.Key_Reload" />
+		<KeyWord name="Qt.Key_Reply" />
+		<KeyWord name="Qt.Key_Return" />
+		<KeyWord name="Qt.Key_Right" />
+		<KeyWord name="Qt.Key_Romaji" />
+		<KeyWord name="Qt.Key_RotateWindows" />
+		<KeyWord name="Qt.Key_RotationKB" />
+		<KeyWord name="Qt.Key_RotationPB" />
+		<KeyWord name="Qt.Key_S" />
+		<KeyWord name="Qt.Key_Save" />
+		<KeyWord name="Qt.Key_ScreenSaver" />
+		<KeyWord name="Qt.Key_ScrollLock" />
+		<KeyWord name="Qt.Key_Search" />
+		<KeyWord name="Qt.Key_Select" />
+		<KeyWord name="Qt.Key_Semicolon" />
+		<KeyWord name="Qt.Key_Send" />
+		<KeyWord name="Qt.Key_Shift" />
+		<KeyWord name="Qt.Key_Shop" />
+		<KeyWord name="Qt.Key_SingleCandidate" />
+		<KeyWord name="Qt.Key_Slash" />
+		<KeyWord name="Qt.Key_Sleep" />
+		<KeyWord name="Qt.Key_Space" />
+		<KeyWord name="Qt.Key_Spell" />
+		<KeyWord name="Qt.Key_SplitScreen" />
+		<KeyWord name="Qt.Key_Standby" />
+		<KeyWord name="Qt.Key_Stop" />
+		<KeyWord name="Qt.Key_Subtitle" />
+		<KeyWord name="Qt.Key_Super_L" />
+		<KeyWord name="Qt.Key_Super_R" />
+		<KeyWord name="Qt.Key_Support" />
+		<KeyWord name="Qt.Key_Suspend" />
+		<KeyWord name="Qt.Key_SysReq" />
+		<KeyWord name="Qt.Key_T" />
+		<KeyWord name="Qt.Key_THORN" />
+		<KeyWord name="Qt.Key_Tab" />
+		<KeyWord name="Qt.Key_TaskPane" />
+		<KeyWord name="Qt.Key_Terminal" />
+		<KeyWord name="Qt.Key_Time" />
+		<KeyWord name="Qt.Key_ToDoList" />
+		<KeyWord name="Qt.Key_ToggleCallHangup" />
+		<KeyWord name="Qt.Key_Tools" />
+		<KeyWord name="Qt.Key_TopMenu" />
+		<KeyWord name="Qt.Key_Touroku" />
+		<KeyWord name="Qt.Key_Travel" />
+		<KeyWord name="Qt.Key_TrebleDown" />
+		<KeyWord name="Qt.Key_TrebleUp" />
+		<KeyWord name="Qt.Key_U" />
+		<KeyWord name="Qt.Key_UWB" />
+		<KeyWord name="Qt.Key_Uacute" />
+		<KeyWord name="Qt.Key_Ucircumflex" />
+		<KeyWord name="Qt.Key_Udiaeresis" />
+		<KeyWord name="Qt.Key_Ugrave" />
+		<KeyWord name="Qt.Key_Underscore" />
+		<KeyWord name="Qt.Key_Up" />
+		<KeyWord name="Qt.Key_V" />
+		<KeyWord name="Qt.Key_Video" />
+		<KeyWord name="Qt.Key_View" />
+		<KeyWord name="Qt.Key_VoiceDial" />
+		<KeyWord name="Qt.Key_VolumeDown" />
+		<KeyWord name="Qt.Key_VolumeMute" />
+		<KeyWord name="Qt.Key_VolumeUp" />
+		<KeyWord name="Qt.Key_W" />
+		<KeyWord name="Qt.Key_WLAN" />
+		<KeyWord name="Qt.Key_WWW" />
+		<KeyWord name="Qt.Key_WakeUp" />
+		<KeyWord name="Qt.Key_WebCam" />
+		<KeyWord name="Qt.Key_Word" />
+		<KeyWord name="Qt.Key_X" />
+		<KeyWord name="Qt.Key_Xfer" />
+		<KeyWord name="Qt.Key_Y" />
+		<KeyWord name="Qt.Key_Yacute" />
+		<KeyWord name="Qt.Key_Yes" />
+		<KeyWord name="Qt.Key_Z" />
+		<KeyWord name="Qt.Key_Zenkaku" />
+		<KeyWord name="Qt.Key_Zenkaku_Hankaku" />
+		<KeyWord name="Qt.Key_Zoom" />
+		<KeyWord name="Qt.Key_ZoomIn" />
+		<KeyWord name="Qt.Key_ZoomOut" />
+		<KeyWord name="Qt.Key_acute" />
+		<KeyWord name="Qt.Key_brokenbar" />
+		<KeyWord name="Qt.Key_cedilla" />
+		<KeyWord name="Qt.Key_cent" />
+		<KeyWord name="Qt.Key_copyright" />
+		<KeyWord name="Qt.Key_currency" />
+		<KeyWord name="Qt.Key_degree" />
+		<KeyWord name="Qt.Key_diaeresis" />
+		<KeyWord name="Qt.Key_division" />
+		<KeyWord name="Qt.Key_exclamdown" />
+		<KeyWord name="Qt.Key_guillemotleft" />
+		<KeyWord name="Qt.Key_guillemotright" />
+		<KeyWord name="Qt.Key_hyphen" />
+		<KeyWord name="Qt.Key_iTouch" />
+		<KeyWord name="Qt.Key_macron" />
+		<KeyWord name="Qt.Key_masculine" />
+		<KeyWord name="Qt.Key_mu" />
+		<KeyWord name="Qt.Key_multiply" />
+		<KeyWord name="Qt.Key_nobreakspace" />
+		<KeyWord name="Qt.Key_notsign" />
+		<KeyWord name="Qt.Key_onehalf" />
+		<KeyWord name="Qt.Key_onequarter" />
+		<KeyWord name="Qt.Key_onesuperior" />
+		<KeyWord name="Qt.Key_ordfeminine" />
+		<KeyWord name="Qt.Key_paragraph" />
+		<KeyWord name="Qt.Key_periodcentered" />
+		<KeyWord name="Qt.Key_plusminus" />
+		<KeyWord name="Qt.Key_questiondown" />
+		<KeyWord name="Qt.Key_registered" />
+		<KeyWord name="Qt.Key_section" />
+		<KeyWord name="Qt.Key_ssharp" />
+		<KeyWord name="Qt.Key_sterling" />
+		<KeyWord name="Qt.Key_threequarters" />
+		<KeyWord name="Qt.Key_threesuperior" />
+		<KeyWord name="Qt.Key_twosuperior" />
+		<KeyWord name="Qt.Key_unknown" />
+		<KeyWord name="Qt.Key_ydiaeresis" />
+		<KeyWord name="Qt.Key_yen" />
+		<KeyWord name="Qt.KeyboardModifier" />
+		<KeyWord name="Qt.KeyboardModifierMask" />
+		<KeyWord name="Qt.KeyboardModifiers" />
+		<KeyWord name="Qt.KeypadModifier" />
+		<KeyWord name="Qt.LastCursor" />
+		<KeyWord name="Qt.LayoutDirection" />
+		<KeyWord name="Qt.LayoutDirectionAuto" />
+		<KeyWord name="Qt.LeftArrow" />
+		<KeyWord name="Qt.LeftButton" />
+		<KeyWord name="Qt.LeftDockWidgetArea" />
+		<KeyWord name="Qt.LeftSection" />
+		<KeyWord name="Qt.LeftToRight" />
+		<KeyWord name="Qt.LeftToolBarArea" />
+		<KeyWord name="Qt.LinearGradientPattern" />
+		<KeyWord name="Qt.LinkAction" />
+		<KeyWord name="Qt.LinksAccessibleByKeyboard" />
+		<KeyWord name="Qt.LinksAccessibleByMouse" />
+		<KeyWord name="Qt.LocalDate" />
+		<KeyWord name="Qt.LocalTime" />
+		<KeyWord name="Qt.LocaleDate" />
+		<KeyWord name="Qt.LogText" />
+		<KeyWord name="Qt.LogicalCoordinates" />
+		<KeyWord name="Qt.LowEventPriority" />
+		<KeyWord name="Qt.META" />
+		<KeyWord name="Qt.MODIFIER_MASK" />
+		<KeyWord name="Qt.MPenCapStyle" />
+		<KeyWord name="Qt.MPenJoinStyle" />
+		<KeyWord name="Qt.MPenStyle" />
+		<KeyWord name="Qt.MSWindowsFixedSizeDialogHint" />
+		<KeyWord name="Qt.MSWindowsOwnDC" />
+		<KeyWord name="Qt.MacWindowToolBarButtonHint" />
+		<KeyWord name="Qt.MaskInColor" />
+		<KeyWord name="Qt.MaskMode" />
+		<KeyWord name="Qt.MaskOutColor" />
+		<KeyWord name="Qt.MatchCaseSensitive" />
+		<KeyWord name="Qt.MatchContains" />
+		<KeyWord name="Qt.MatchEndsWith" />
+		<KeyWord name="Qt.MatchExactly" />
+		<KeyWord name="Qt.MatchFixedString" />
+		<KeyWord name="Qt.MatchFlag" />
+		<KeyWord name="Qt.MatchFlags" />
+		<KeyWord name="Qt.MatchRecursive" />
+		<KeyWord name="Qt.MatchRegExp" />
+		<KeyWord name="Qt.MatchStartsWith" />
+		<KeyWord name="Qt.MatchWildcard" />
+		<KeyWord name="Qt.MatchWrap" />
+		<KeyWord name="Qt.MaximumSize" />
+		<KeyWord name="Qt.MenuBarFocusReason" />
+		<KeyWord name="Qt.MetaModifier" />
+		<KeyWord name="Qt.MidButton" />
+		<KeyWord name="Qt.MiddleButton" />
+		<KeyWord name="Qt.MinimumDescent" />
+		<KeyWord name="Qt.MinimumSize" />
+		<KeyWord name="Qt.MiterJoin" />
+		<KeyWord name="Qt.Modifier" />
+		<KeyWord name="Qt.Monday" />
+		<KeyWord name="Qt.MonoOnly" />
+		<KeyWord name="Qt.MouseButton" />
+		<KeyWord name="Qt.MouseButtonMask" />
+		<KeyWord name="Qt.MouseButtons" />
+		<KeyWord name="Qt.MouseFocusReason" />
+		<KeyWord name="Qt.MoveAction" />
+		<KeyWord name="Qt.NavigationMode" />
+		<KeyWord name="Qt.NavigationModeCursorAuto" />
+		<KeyWord name="Qt.NavigationModeCursorForceVisible" />
+		<KeyWord name="Qt.NavigationModeKeypadDirectional" />
+		<KeyWord name="Qt.NavigationModeKeypadTabOrder" />
+		<KeyWord name="Qt.NavigationModeNone" />
+		<KeyWord name="Qt.NoArrow" />
+		<KeyWord name="Qt.NoBrush" />
+		<KeyWord name="Qt.NoButton" />
+		<KeyWord name="Qt.NoClip" />
+		<KeyWord name="Qt.NoContextMenu" />
+		<KeyWord name="Qt.NoDockWidgetArea" />
+		<KeyWord name="Qt.NoFocus" />
+		<KeyWord name="Qt.NoFocusReason" />
+		<KeyWord name="Qt.NoItemFlags" />
+		<KeyWord name="Qt.NoModifier" />
+		<KeyWord name="Qt.NoPen" />
+		<KeyWord name="Qt.NoSection" />
+		<KeyWord name="Qt.NoTextInteraction" />
+		<KeyWord name="Qt.NoToolBarArea" />
+		<KeyWord name="Qt.NonModal" />
+		<KeyWord name="Qt.NormalEventPriority" />
+		<KeyWord name="Qt.OddEvenFill" />
+		<KeyWord name="Qt.OffsetFromUTC" />
+		<KeyWord name="Qt.OpaqueMode" />
+		<KeyWord name="Qt.OpenHandCursor" />
+		<KeyWord name="Qt.OrderedAlphaDither" />
+		<KeyWord name="Qt.OrderedDither" />
+		<KeyWord name="Qt.Orientation" />
+		<KeyWord name="Qt.Orientations" />
+		<KeyWord name="Qt.OtherFocusReason" />
+		<KeyWord name="Qt.PanGesture" />
+		<KeyWord name="Qt.PartiallyChecked" />
+		<KeyWord name="Qt.PenCapStyle" />
+		<KeyWord name="Qt.PenJoinStyle" />
+		<KeyWord name="Qt.PenStyle" />
+		<KeyWord name="Qt.PinchGesture" />
+		<KeyWord name="Qt.PlainText" />
+		<KeyWord name="Qt.PointingHandCursor" />
+		<KeyWord name="Qt.Popup" />
+		<KeyWord name="Qt.PopupFocusReason" />
+		<KeyWord name="Qt.PreferDither" />
+		<KeyWord name="Qt.PreferredSize" />
+		<KeyWord name="Qt.PreventContextMenu" />
+		<KeyWord name="Qt.QueuedConnection" />
+		<KeyWord name="Qt.RadialGradientPattern" />
+		<KeyWord name="Qt.ReceivePartialGestures" />
+		<KeyWord name="Qt.RelativeSize" />
+		<KeyWord name="Qt.RepeatTile" />
+		<KeyWord name="Qt.ReplaceClip" />
+		<KeyWord name="Qt.RichText" />
+		<KeyWord name="Qt.RightArrow" />
+		<KeyWord name="Qt.RightButton" />
+		<KeyWord name="Qt.RightDockWidgetArea" />
+		<KeyWord name="Qt.RightSection" />
+		<KeyWord name="Qt.RightToLeft" />
+		<KeyWord name="Qt.RightToolBarArea" />
+		<KeyWord name="Qt.RoundCap" />
+		<KeyWord name="Qt.RoundJoin" />
+		<KeyWord name="Qt.RoundTile" />
+		<KeyWord name="Qt.SHIFT" />
+		<KeyWord name="Qt.Saturday" />
+		<KeyWord name="Qt.ScrollBarAlwaysOff" />
+		<KeyWord name="Qt.ScrollBarAlwaysOn" />
+		<KeyWord name="Qt.ScrollBarAsNeeded" />
+		<KeyWord name="Qt.ScrollBarPolicy" />
+		<KeyWord name="Qt.Sheet" />
+		<KeyWord name="Qt.ShiftModifier" />
+		<KeyWord name="Qt.ShortcutContext" />
+		<KeyWord name="Qt.ShortcutFocusReason" />
+		<KeyWord name="Qt.SizeAllCursor" />
+		<KeyWord name="Qt.SizeBDiagCursor" />
+		<KeyWord name="Qt.SizeFDiagCursor" />
+		<KeyWord name="Qt.SizeHint" />
+		<KeyWord name="Qt.SizeHintRole" />
+		<KeyWord name="Qt.SizeHorCursor" />
+		<KeyWord name="Qt.SizeMode" />
+		<KeyWord name="Qt.SizeVerCursor" />
+		<KeyWord name="Qt.SmoothTransformation" />
+		<KeyWord name="Qt.SolidLine" />
+		<KeyWord name="Qt.SolidPattern" />
+		<KeyWord name="Qt.SortOrder" />
+		<KeyWord name="Qt.SplashScreen" />
+		<KeyWord name="Qt.SplitHCursor" />
+		<KeyWord name="Qt.SplitVCursor" />
+		<KeyWord name="Qt.SquareCap" />
+		<KeyWord name="Qt.StatusTipRole" />
+		<KeyWord name="Qt.StretchTile" />
+		<KeyWord name="Qt.StrongFocus" />
+		<KeyWord name="Qt.SubWindow" />
+		<KeyWord name="Qt.Sunday" />
+		<KeyWord name="Qt.SvgMiterJoin" />
+		<KeyWord name="Qt.SwipeGesture" />
+		<KeyWord name="Qt.SystemLocaleDate" />
+		<KeyWord name="Qt.SystemLocaleLongDate" />
+		<KeyWord name="Qt.SystemLocaleShortDate" />
+		<KeyWord name="Qt.TabFocus" />
+		<KeyWord name="Qt.TabFocusReason" />
+		<KeyWord name="Qt.TapAndHoldGesture" />
+		<KeyWord name="Qt.TapGesture" />
+		<KeyWord name="Qt.TargetMoveAction" />
+		<KeyWord name="Qt.TextAlignmentRole" />
+		<KeyWord name="Qt.TextBrowserInteraction" />
+		<KeyWord name="Qt.TextColorRole" />
+		<KeyWord name="Qt.TextDate" />
+		<KeyWord name="Qt.TextDontClip" />
+		<KeyWord name="Qt.TextDontPrint" />
+		<KeyWord name="Qt.TextEditable" />
+		<KeyWord name="Qt.TextEditorInteraction" />
+		<KeyWord name="Qt.TextElideMode" />
+		<KeyWord name="Qt.TextExpandTabs" />
+		<KeyWord name="Qt.TextFlag" />
+		<KeyWord name="Qt.TextFormat" />
+		<KeyWord name="Qt.TextHideMnemonic" />
+		<KeyWord name="Qt.TextIncludeTrailingSpaces" />
+		<KeyWord name="Qt.TextInteractionFlag" />
+		<KeyWord name="Qt.TextInteractionFlags" />
+		<KeyWord name="Qt.TextJustificationForced" />
+		<KeyWord name="Qt.TextSelectableByKeyboard" />
+		<KeyWord name="Qt.TextSelectableByMouse" />
+		<KeyWord name="Qt.TextShowMnemonic" />
+		<KeyWord name="Qt.TextSingleLine" />
+		<KeyWord name="Qt.TextWordWrap" />
+		<KeyWord name="Qt.TextWrapAnywhere" />
+		<KeyWord name="Qt.TexturePattern" />
+		<KeyWord name="Qt.ThresholdAlphaDither" />
+		<KeyWord name="Qt.ThresholdDither" />
+		<KeyWord name="Qt.Thursday" />
+		<KeyWord name="Qt.TileRule" />
+		<KeyWord name="Qt.TimeSpec" />
+		<KeyWord name="Qt.TitleBarArea" />
+		<KeyWord name="Qt.Tool" />
+		<KeyWord name="Qt.ToolBarArea" />
+		<KeyWord name="Qt.ToolBarArea_Mask" />
+		<KeyWord name="Qt.ToolBarAreas" />
+		<KeyWord name="Qt.ToolButtonFollowStyle" />
+		<KeyWord name="Qt.ToolButtonIconOnly" />
+		<KeyWord name="Qt.ToolButtonStyle" />
+		<KeyWord name="Qt.ToolButtonTextBesideIcon" />
+		<KeyWord name="Qt.ToolButtonTextOnly" />
+		<KeyWord name="Qt.ToolButtonTextUnderIcon" />
+		<KeyWord name="Qt.ToolTip" />
+		<KeyWord name="Qt.ToolTipRole" />
+		<KeyWord name="Qt.TopDockWidgetArea" />
+		<KeyWord name="Qt.TopLeftCorner" />
+		<KeyWord name="Qt.TopLeftSection" />
+		<KeyWord name="Qt.TopRightCorner" />
+		<KeyWord name="Qt.TopRightSection" />
+		<KeyWord name="Qt.TopSection" />
+		<KeyWord name="Qt.TopToolBarArea" />
+		<KeyWord name="Qt.TouchPointMoved" />
+		<KeyWord name="Qt.TouchPointPressed" />
+		<KeyWord name="Qt.TouchPointReleased" />
+		<KeyWord name="Qt.TouchPointState" />
+		<KeyWord name="Qt.TouchPointStates" />
+		<KeyWord name="Qt.TouchPointStationary" />
+		<KeyWord name="Qt.TransformationMode" />
+		<KeyWord name="Qt.TransparentMode" />
+		<KeyWord name="Qt.Tuesday" />
+		<KeyWord name="Qt.UIEffect" />
+		<KeyWord name="Qt.UI_AnimateCombo" />
+		<KeyWord name="Qt.UI_AnimateMenu" />
+		<KeyWord name="Qt.UI_AnimateToolBox" />
+		<KeyWord name="Qt.UI_AnimateTooltip" />
+		<KeyWord name="Qt.UI_FadeMenu" />
+		<KeyWord name="Qt.UI_FadeTooltip" />
+		<KeyWord name="Qt.UI_General" />
+		<KeyWord name="Qt.UNICODE_ACCEL" />
+		<KeyWord name="Qt.UTC" />
+		<KeyWord name="Qt.Unchecked" />
+		<KeyWord name="Qt.UniqueConnection" />
+		<KeyWord name="Qt.UniteClip" />
+		<KeyWord name="Qt.UpArrow" />
+		<KeyWord name="Qt.UpArrowCursor" />
+		<KeyWord name="Qt.UserRole" />
+		<KeyWord name="Qt.VerPattern" />
+		<KeyWord name="Qt.Vertical" />
+		<KeyWord name="Qt.WA_AcceptDrops" />
+		<KeyWord name="Qt.WA_AcceptTouchEvents" />
+		<KeyWord name="Qt.WA_AlwaysShowToolTips" />
+		<KeyWord name="Qt.WA_AttributeCount" />
+		<KeyWord name="Qt.WA_AutoOrientation" />
+		<KeyWord name="Qt.WA_CustomWhatsThis" />
+		<KeyWord name="Qt.WA_DeleteOnClose" />
+		<KeyWord name="Qt.WA_Disabled" />
+		<KeyWord name="Qt.WA_DontCreateNativeAncestors" />
+		<KeyWord name="Qt.WA_ForceDisabled" />
+		<KeyWord name="Qt.WA_ForceUpdatesDisabled" />
+		<KeyWord name="Qt.WA_GrabbedShortcut" />
+		<KeyWord name="Qt.WA_GroupLeader" />
+		<KeyWord name="Qt.WA_Hover" />
+		<KeyWord name="Qt.WA_InputMethodEnabled" />
+		<KeyWord name="Qt.WA_InputMethodTransparent" />
+		<KeyWord name="Qt.WA_InvalidSize" />
+		<KeyWord name="Qt.WA_KeyCompression" />
+		<KeyWord name="Qt.WA_KeyboardFocusChange" />
+		<KeyWord name="Qt.WA_LaidOut" />
+		<KeyWord name="Qt.WA_LayoutOnEntireRect" />
+		<KeyWord name="Qt.WA_LayoutUsesWidgetRect" />
+		<KeyWord name="Qt.WA_LockLandscapeOrientation" />
+		<KeyWord name="Qt.WA_LockPortraitOrientation" />
+		<KeyWord name="Qt.WA_MSWindowsUseDirect3D" />
+		<KeyWord name="Qt.WA_MacAlwaysShowToolWindow" />
+		<KeyWord name="Qt.WA_MacBrushedMetal" />
+		<KeyWord name="Qt.WA_MacFrameworkScaled" />
+		<KeyWord name="Qt.WA_MacMetalStyle" />
+		<KeyWord name="Qt.WA_MacMiniSize" />
+		<KeyWord name="Qt.WA_MacNoClickThrough" />
+		<KeyWord name="Qt.WA_MacNormalSize" />
+		<KeyWord name="Qt.WA_MacOpaqueSizeGrip" />
+		<KeyWord name="Qt.WA_MacShowFocusRect" />
+		<KeyWord name="Qt.WA_MacSmallSize" />
+		<KeyWord name="Qt.WA_MacVariableSize" />
+		<KeyWord name="Qt.WA_Mapped" />
+		<KeyWord name="Qt.WA_MergeSoftkeys" />
+		<KeyWord name="Qt.WA_MergeSoftkeysRecursively" />
+		<KeyWord name="Qt.WA_MouseNoMask" />
+		<KeyWord name="Qt.WA_MouseTracking" />
+		<KeyWord name="Qt.WA_Moved" />
+		<KeyWord name="Qt.WA_NativeWindow" />
+		<KeyWord name="Qt.WA_NoChildEventsForParent" />
+		<KeyWord name="Qt.WA_NoChildEventsFromChildren" />
+		<KeyWord name="Qt.WA_NoMousePropagation" />
+		<KeyWord name="Qt.WA_NoMouseReplay" />
+		<KeyWord name="Qt.WA_NoSystemBackground" />
+		<KeyWord name="Qt.WA_NoX11EventCompression" />
+		<KeyWord name="Qt.WA_OpaquePaintEvent" />
+		<KeyWord name="Qt.WA_OutsideWSRange" />
+		<KeyWord name="Qt.WA_PaintOnScreen" />
+		<KeyWord name="Qt.WA_PaintOutsidePaintEvent" />
+		<KeyWord name="Qt.WA_PaintUnclipped" />
+		<KeyWord name="Qt.WA_PendingMoveEvent" />
+		<KeyWord name="Qt.WA_PendingResizeEvent" />
+		<KeyWord name="Qt.WA_PendingUpdate" />
+		<KeyWord name="Qt.WA_QuitOnClose" />
+		<KeyWord name="Qt.WA_Resized" />
+		<KeyWord name="Qt.WA_RightToLeft" />
+		<KeyWord name="Qt.WA_SetCursor" />
+		<KeyWord name="Qt.WA_SetFont" />
+		<KeyWord name="Qt.WA_SetLayoutDirection" />
+		<KeyWord name="Qt.WA_SetLocale" />
+		<KeyWord name="Qt.WA_SetPalette" />
+		<KeyWord name="Qt.WA_SetStyle" />
+		<KeyWord name="Qt.WA_SetWindowIcon" />
+		<KeyWord name="Qt.WA_ShowWithoutActivating" />
+		<KeyWord name="Qt.WA_StaticContents" />
+		<KeyWord name="Qt.WA_StyleSheet" />
+		<KeyWord name="Qt.WA_StyledBackground" />
+		<KeyWord name="Qt.WA_TintedBackground" />
+		<KeyWord name="Qt.WA_TouchPadAcceptSingleTouchEvents" />
+		<KeyWord name="Qt.WA_TranslucentBackground" />
+		<KeyWord name="Qt.WA_TransparentForMouseEvents" />
+		<KeyWord name="Qt.WA_UnderMouse" />
+		<KeyWord name="Qt.WA_UpdatesDisabled" />
+		<KeyWord name="Qt.WA_WState_CompressKeys" />
+		<KeyWord name="Qt.WA_WState_ConfigPending" />
+		<KeyWord name="Qt.WA_WState_Created" />
+		<KeyWord name="Qt.WA_WState_ExplicitShowHide" />
+		<KeyWord name="Qt.WA_WState_Hidden" />
+		<KeyWord name="Qt.WA_WState_InPaintEvent" />
+		<KeyWord name="Qt.WA_WState_OwnSizePolicy" />
+		<KeyWord name="Qt.WA_WState_Polished" />
+		<KeyWord name="Qt.WA_WState_Reparented" />
+		<KeyWord name="Qt.WA_WState_Visible" />
+		<KeyWord name="Qt.WA_WindowModified" />
+		<KeyWord name="Qt.WA_WindowPropagation" />
+		<KeyWord name="Qt.WA_X11DoNotAcceptFocus" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeCombo" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeDND" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeDesktop" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeDialog" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeDock" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeDropDownMenu" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeMenu" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeNotification" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypePopupMenu" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeSplash" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeToolBar" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeToolTip" />
+		<KeyWord name="Qt.WA_X11NetWmWindowTypeUtility" />
+		<KeyWord name="Qt.WA_X11OpenGLOverlay" />
+		<KeyWord name="Qt.WaitCursor" />
+		<KeyWord name="Qt.Wednesday" />
+		<KeyWord name="Qt.WhatsThisCursor" />
+		<KeyWord name="Qt.WhatsThisRole" />
+		<KeyWord name="Qt.WheelFocus" />
+		<KeyWord name="Qt.WhiteSpaceMode" />
+		<KeyWord name="Qt.WhiteSpaceModeUndefined" />
+		<KeyWord name="Qt.WhiteSpaceNoWrap" />
+		<KeyWord name="Qt.WhiteSpaceNormal" />
+		<KeyWord name="Qt.WhiteSpacePre" />
+		<KeyWord name="Qt.Widget" />
+		<KeyWord name="Qt.WidgetAttribute" />
+		<KeyWord name="Qt.WidgetShortcut" />
+		<KeyWord name="Qt.WidgetWithChildrenShortcut" />
+		<KeyWord name="Qt.WindingFill" />
+		<KeyWord name="Qt.Window" />
+		<KeyWord name="Qt.WindowActive" />
+		<KeyWord name="Qt.WindowCancelButtonHint" />
+		<KeyWord name="Qt.WindowCloseButtonHint" />
+		<KeyWord name="Qt.WindowContextHelpButtonHint" />
+		<KeyWord name="Qt.WindowFlags" />
+		<KeyWord name="Qt.WindowFrameSection" />
+		<KeyWord name="Qt.WindowFullScreen" />
+		<KeyWord name="Qt.WindowMaximizeButtonHint" />
+		<KeyWord name="Qt.WindowMaximized" />
+		<KeyWord name="Qt.WindowMinMaxButtonsHint" />
+		<KeyWord name="Qt.WindowMinimizeButtonHint" />
+		<KeyWord name="Qt.WindowMinimized" />
+		<KeyWord name="Qt.WindowModal" />
+		<KeyWord name="Qt.WindowModality" />
+		<KeyWord name="Qt.WindowNoState" />
+		<KeyWord name="Qt.WindowOkButtonHint" />
+		<KeyWord name="Qt.WindowShadeButtonHint" />
+		<KeyWord name="Qt.WindowShortcut" />
+		<KeyWord name="Qt.WindowSoftkeysRespondHint" />
+		<KeyWord name="Qt.WindowSoftkeysVisibleHint" />
+		<KeyWord name="Qt.WindowState" />
+		<KeyWord name="Qt.WindowStates" />
+		<KeyWord name="Qt.WindowStaysOnBottomHint" />
+		<KeyWord name="Qt.WindowStaysOnTopHint" />
+		<KeyWord name="Qt.WindowSystemMenuHint" />
+		<KeyWord name="Qt.WindowTitleHint" />
+		<KeyWord name="Qt.WindowType" />
+		<KeyWord name="Qt.WindowType_Mask" />
+		<KeyWord name="Qt.X11BypassWindowManagerHint" />
+		<KeyWord name="Qt.XAxis" />
+		<KeyWord name="Qt.XButton1" />
+		<KeyWord name="Qt.XButton2" />
+		<KeyWord name="Qt.YAxis" />
+		<KeyWord name="Qt.ZAxis" />
+		<KeyWord name="Qt.__class__" />
+		<KeyWord name="Qt.__delattr__" />
+		<KeyWord name="Qt.__dict__" />
+		<KeyWord name="Qt.__doc__" />
+		<KeyWord name="Qt.__format__" />
+		<KeyWord name="Qt.__getattribute__" />
+		<KeyWord name="Qt.__hash__" />
+		<KeyWord name="Qt.__init__" />
+		<KeyWord name="Qt.__module__" />
+		<KeyWord name="Qt.__new__" />
+		<KeyWord name="Qt.__reduce__" />
+		<KeyWord name="Qt.__reduce_ex__" />
+		<KeyWord name="Qt.__repr__" />
+		<KeyWord name="Qt.__setattr__" />
+		<KeyWord name="Qt.__sizeof__" />
+		<KeyWord name="Qt.__str__" />
+		<KeyWord name="Qt.__subclasshook__" />
+		<KeyWord name="Qt.__weakref__" />
+		<KeyWord name="Qt.black" />
+		<KeyWord name="Qt.blue" />
+		<KeyWord name="Qt.color0" />
+		<KeyWord name="Qt.color1" />
+		<KeyWord name="Qt.convertFromPlainText" />
+		<KeyWord name="Qt.cyan" />
+		<KeyWord name="Qt.darkBlue" />
+		<KeyWord name="Qt.darkCyan" />
+		<KeyWord name="Qt.darkGray" />
+		<KeyWord name="Qt.darkGreen" />
+		<KeyWord name="Qt.darkMagenta" />
+		<KeyWord name="Qt.darkRed" />
+		<KeyWord name="Qt.darkYellow" />
+		<KeyWord name="Qt.escape" />
+		<KeyWord name="Qt.gray" />
+		<KeyWord name="Qt.green" />
+		<KeyWord name="Qt.lightGray" />
+		<KeyWord name="Qt.magenta" />
+		<KeyWord name="Qt.mightBeRichText" />
+		<KeyWord name="Qt.red" />
+		<KeyWord name="Qt.transparent" />
+		<KeyWord name="Qt.white" />
+		<KeyWord name="Qt.yellow" />
+		<KeyWord name="QtCore" />
+		<KeyWord name="QtCriticalMsg" />
+		<KeyWord name="QtDebugMsg" />
+		<KeyWord name="QtFatalMsg" />
+		<KeyWord name="QtGui" />
+		<KeyWord name="QtMsgType" />
+		<KeyWord name="QtSystemMsg" />
+		<KeyWord name="QtWarningMsg" />
+		<KeyWord name="SIGNAL" />
+		<KeyWord name="SLOT" />
+		<KeyWord name="True" />
+		<KeyWord name="__doc__" />
+		<KeyWord name="__file__" />
+		<KeyWord name="__getnewargs__" />
+		<KeyWord name="__license__" />
+		<KeyWord name="__name__" />
+		<KeyWord name="__package__" />
+		<KeyWord name="__reduce__" />
+		<KeyWord name="__setstate__" />
+		<KeyWord name="__unicode__" />
+		<KeyWord name="and" />
+		<KeyWord name="as" />
+		<KeyWord name="assert" />
+		<KeyWord name="bin" />
+		<KeyWord name="bom" />
+		<KeyWord name="break" />
+		<KeyWord name="center" />
+		<KeyWord name="class" />
+		<KeyWord name="continue" />
+		<KeyWord name="dec" />
+		<KeyWord name="def" />
+		<KeyWord name="del" />
+		<KeyWord name="elif" />
+		<KeyWord name="else" />
+		<KeyWord name="endl" />
+		<KeyWord name="except" />
+		<KeyWord name="exec" />
+		<KeyWord name="finally" />
+		<KeyWord name="fixed" />
+		<KeyWord name="flush" />
+		<KeyWord name="for" />
+		<KeyWord name="forcepoint" />
+		<KeyWord name="forcesign" />
+		<KeyWord name="from" />
+		<KeyWord name="global" />
+		<KeyWord name="hex" />
+		<KeyWord name="if" />
+		<KeyWord name="import" />
+		<KeyWord name="in" />
+		<KeyWord name="is" />
+		<KeyWord name="lambda" />
+		<KeyWord name="left" />
+		<KeyWord name="lowercasebase" />
+		<KeyWord name="lowercasedigits" />
+		<KeyWord name="noforcepoint" />
+		<KeyWord name="noforcesign" />
+		<KeyWord name="noshowbase" />
+		<KeyWord name="not" />
+		<KeyWord name="oct" />
+		<KeyWord name="or" />
+		<KeyWord name="pass" />
+		<KeyWord name="print" />
+		<KeyWord name="pyqtProperty" />
+		<KeyWord name="pyqtRemoveInputHook" />
+		<KeyWord name="pyqtRestoreInputHook" />
+		<KeyWord name="pyqtSignal" />
+		<KeyWord name="pyqtSignature" />
+		<KeyWord name="pyqtSlot" />
+		<KeyWord name="pyqtWrapperType" />
+		<KeyWord name="qAbs" />
+		<KeyWord name="qAddPostRoutine" />
+		<KeyWord name="qAlpha" />
+		<KeyWord name="qApp" />
+		<KeyWord name="qBlue" />
+		<KeyWord name="qChecksum" />
+		<KeyWord name="qCompress" />
+		<KeyWord name="qCritical" />
+		<KeyWord name="qDebug" />
+		<KeyWord name="qDrawBorderPixmap" />
+		<KeyWord name="qDrawPlainRect" />
+		<KeyWord name="qDrawShadeLine" />
+		<KeyWord name="qDrawShadePanel" />
+		<KeyWord name="qDrawShadeRect" />
+		<KeyWord name="qDrawWinButton" />
+		<KeyWord name="qDrawWinPanel" />
+		<KeyWord name="qErrnoWarning" />
+		<KeyWord name="qFatal" />
+		<KeyWord name="qFuzzyCompare" />
+		<KeyWord name="qGray" />
+		<KeyWord name="qGreen" />
+		<KeyWord name="qInf" />
+		<KeyWord name="qInstallMsgHandler" />
+		<KeyWord name="qIsFinite" />
+		<KeyWord name="qIsGray" />
+		<KeyWord name="qIsInf" />
+		<KeyWord name="qIsNaN" />
+		<KeyWord name="qIsNull" />
+		<KeyWord name="qQNaN" />
+		<KeyWord name="qRed" />
+		<KeyWord name="qRegisterResourceData" />
+		<KeyWord name="qRemovePostRoutine" />
+		<KeyWord name="qRgb" />
+		<KeyWord name="qRgba" />
+		<KeyWord name="qRound" />
+		<KeyWord name="qRound64" />
+		<KeyWord name="qSNaN" />
+		<KeyWord name="qSetFieldWidth" />
+		<KeyWord name="qSetPadChar" />
+		<KeyWord name="qSetRealNumberPrecision" />
+		<KeyWord name="qSharedBuild" />
+		<KeyWord name="qSwap" />
+		<KeyWord name="qUncompress" />
+		<KeyWord name="qUnregisterResourceData" />
+		<KeyWord name="qVersion" />
+		<KeyWord name="qWarning" />
+		<KeyWord name="qrand" />
+		<KeyWord name="qsrand" />
+		<KeyWord name="raise" />
+		<KeyWord name="reset" />
+		<KeyWord name="return" />
+		<KeyWord name="right" />
+		<KeyWord name="scientific" />
+		<KeyWord name="showbase" />
+		<KeyWord name="tobytes" />
+		<KeyWord name="tolist" />
+		<KeyWord name="try" />
+		<KeyWord name="uppercasebase" />
+		<KeyWord name="uppercasedigits" />
+		<KeyWord name="while" />
+		<KeyWord name="with" />
+		<KeyWord name="ws" />
+		<KeyWord name="yield" />
+
+		<KeyWord name="ArithmeticError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="AssertionError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="AttributeError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="BaseException" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="BufferError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="BytesWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="DeprecationWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="EOFError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="EnvironmentError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Exception" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FloatingPointError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FutureWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="GeneratorExit" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="IOError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ImportError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ImportWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="IndentationError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="IndexError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="KeyError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="KeyboardInterrupt" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="LookupError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="MemoryError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="NameError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="NotImplementedError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="OSError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="OverflowError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="PendingDeprecationWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ReferenceError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="RuntimeError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="RuntimeWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="StandardError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="StopIteration" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SyntaxError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SyntaxWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SystemError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SystemExit" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TabError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TypeError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UnboundLocalError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UnicodeDecodeError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UnicodeEncodeError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UnicodeError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UnicodeTranslateError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UnicodeWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UserWarning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ValueError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Warning" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="WindowsError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ZeroDivisionError" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__abs__" func="yes">
+			<Overload retVal="" descr="
+						x.__abs__() <==> abs(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__add__" func="yes">
+			<Overload retVal="" descr="
+						x.__add__(y) <==> x+y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__alloc__" func="yes">
+			<Overload retVal="" descr="
+						B.__alloc__() -> int
+						Returns the number of bytes actually allocated.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__and__" func="yes">
+			<Overload retVal="" descr="
+						x.__and__(y) <==> x&y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__call__" func="yes">
+			<Overload retVal="" descr="
+						x.__call__(...) <==> x(...)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__cmp__" func="yes">
+			<Overload retVal="" descr="
+						x.__cmp__(y) <==> cmp(x,y)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__coerce__" func="yes">
+			<Overload retVal="" descr="
+						x.__coerce__(y) <==> coerce(x, y)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__contains__" func="yes">
+			<Overload retVal="" descr="
+						D.__contains__(k) -> True if D has a key k, else False">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__delattr__" func="yes">
+			<Overload retVal="" descr="
+						x.__delattr__('name') <==> del x.name">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__delete__" func="yes">
+			<Overload retVal="" descr="
+						descr.__delete__(obj)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__delitem__" func="yes">
+			<Overload retVal="" descr="
+						x.__delitem__(y) <==> del x[y]">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__delslice__" func="yes">
+			<Overload retVal="" descr="
+						x.__delslice__(i, j) <==> del x[i:j]
+						Use of negative indices is not supported.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__div__" func="yes">
+			<Overload retVal="" descr="
+						x.__div__(y) <==> x/y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__divmod__" func="yes">
+			<Overload retVal="" descr="
+						x.__divmod__(y) <==> divmod(x, y)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__enter__" func="yes">
+			<Overload retVal="" descr="
+						__enter__() -> self.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__eq__" func="yes">
+			<Overload retVal="" descr="
+						x.__eq__(y) <==> x==y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__exit__" func="yes">
+			<Overload retVal="" descr="
+						__exit__(*excinfo) -> None.  Closes the file.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__float__" func="yes">
+			<Overload retVal="" descr="
+						x.__float__() <==> float(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__floordiv__" func="yes">
+			<Overload retVal="" descr="
+						x.__floordiv__(y) <==> x//y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__format__" func="yes">
+			<Overload retVal="" descr="
+						default object formatter">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__ge__" func="yes">
+			<Overload retVal="" descr="
+						x.__ge__(y) <==> x>=y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__get__" func="yes">
+			<Overload retVal="" descr="
+						descr.__get__(obj[, type]) -> value">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__getattribute__" func="yes">
+			<Overload retVal="" descr="
+						x.__getattribute__('name') <==> x.name">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__getformat__" func="yes">
+			<Overload retVal="" descr="
+						float.__getformat__(typestr) -> string
+						You probably don't want to use this function.  It exists mainly to be
+						used in Python's test suite.
+						typestr must be 'double' or 'float'.  This function returns whichever of
+						'unknown', 'IEEE, big-endian' or 'IEEE, little-endian' best describes the
+						format of floating point numbers used by the C type named by typestr.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__getitem__" func="yes">
+			<Overload retVal="" descr="
+						x.__getitem__(y) <==> x[y]">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__getslice__" func="yes">
+			<Overload retVal="" descr="
+						x.__getslice__(i, j) <==> x[i:j]
+						Use of negative indices is not supported.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__gt__" func="yes">
+			<Overload retVal="" descr="
+						x.__gt__(y) <==> x>y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__hash__" func="yes">
+			<Overload retVal="" descr="
+						x.__hash__() <==> hash(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__hex__" func="yes">
+			<Overload retVal="" descr="
+						x.__hex__() <==> hex(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__iadd__" func="yes">
+			<Overload retVal="" descr="
+						x.__iadd__(y) <==> x+=y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__iand__" func="yes">
+			<Overload retVal="" descr="
+						x.__iand__(y) <==> x&y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__import__" func="yes">
+			<Overload retVal="" descr="
+						__import__(name, globals={}, locals={}, fromlist=[], level=-1) -> module
+						Import a module.  The globals are only used to determine the context;
+						they are not modified.  The locals are currently unused.  The fromlist
+						should be a list of names to emulate ``from name import ...'', or an
+						empty list to emulate ``import name''.
+						When importing a module from a package, note that __import__('A.B', ...)
+						returns package A when fromlist is empty, but its submodule B when
+						fromlist is not empty.  Level is used to determine whether to perform
+						absolute or relative imports.  -1 is the original strategy of attempting
+						both absolute and relative imports, 0 is absolute, a positive number
+						is the number of parent directories to search relative to the current module.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__imul__" func="yes">
+			<Overload retVal="" descr="
+						x.__imul__(y) <==> x*=y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__index__" func="yes">
+			<Overload retVal="" descr="
+						x[y:z] <==> x[y.__index__():z.__index__()]">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__init__" func="yes">
+			<Overload retVal="" descr="
+						x.__init__(...) initializes x; see help(type(x)) for signature">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__instancecheck__" func="yes">
+			<Overload retVal="" descr="
+						__instancecheck__() -> bool
+						check if an object is an instance">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__int__" func="yes">
+			<Overload retVal="" descr="
+						x.__int__() <==> int(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__invert__" func="yes">
+			<Overload retVal="" descr="
+						x.__invert__() <==> ~x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__ior__" func="yes">
+			<Overload retVal="" descr="
+						x.__ior__(y) <==> x|y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__isub__" func="yes">
+			<Overload retVal="" descr="
+						x.__isub__(y) <==> x-y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__iter__" func="yes">
+			<Overload retVal="" descr="
+						x.__iter__() <==> iter(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__ixor__" func="yes">
+			<Overload retVal="" descr="
+						x.__ixor__(y) <==> x^y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__le__" func="yes">
+			<Overload retVal="" descr="
+						x.__le__(y) <==> x<=y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__len__" func="yes">
+			<Overload retVal="" descr="
+						x.__len__() <==> len(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__length_hint__" func="yes">
+			<Overload retVal="" descr="
+						Private method returning an estimate of len(list(it)).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__long__" func="yes">
+			<Overload retVal="" descr="
+						x.__long__() <==> long(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__lshift__" func="yes">
+			<Overload retVal="" descr="
+						x.__lshift__(y) <==> x<<y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__lt__" func="yes">
+			<Overload retVal="" descr="
+						x.__lt__(y) <==> x<y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__mod__" func="yes">
+			<Overload retVal="" descr="
+						x.__mod__(y) <==> x%y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__mul__" func="yes">
+			<Overload retVal="" descr="
+						x.__mul__(y) <==> x*y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__ne__" func="yes">
+			<Overload retVal="" descr="
+						x.__ne__(y) <==> x!=y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__neg__" func="yes">
+			<Overload retVal="" descr="
+						x.__neg__() <==> -x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__new__" func="yes">
+			<Overload retVal="" descr="
+						T.__new__(S, ...) -> a new object with type S, a subtype of T">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__nonzero__" func="yes">
+			<Overload retVal="" descr="
+						x.__nonzero__() <==> x != 0">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__oct__" func="yes">
+			<Overload retVal="" descr="
+						x.__oct__() <==> oct(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__or__" func="yes">
+			<Overload retVal="" descr="
+						x.__or__(y) <==> x|y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__pos__" func="yes">
+			<Overload retVal="" descr="
+						x.__pos__() <==> +x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__pow__" func="yes">
+			<Overload retVal="" descr="
+						x.__pow__(y[, z]) <==> pow(x, y[, z])">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__radd__" func="yes">
+			<Overload retVal="" descr="
+						x.__radd__(y) <==> y+x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rand__" func="yes">
+			<Overload retVal="" descr="
+						x.__rand__(y) <==> y&x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rdiv__" func="yes">
+			<Overload retVal="" descr="
+						x.__rdiv__(y) <==> y/x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rdivmod__" func="yes">
+			<Overload retVal="" descr="
+						x.__rdivmod__(y) <==> divmod(y, x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__reduce_ex__" func="yes">
+			<Overload retVal="" descr="
+						helper for pickle">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__repr__" func="yes">
+			<Overload retVal="" descr="
+						x.__repr__() <==> repr(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__reversed__" func="yes">
+			<Overload retVal="" descr="
+						Returns a reverse iterator.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rfloordiv__" func="yes">
+			<Overload retVal="" descr="
+						x.__rfloordiv__(y) <==> y//x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rlshift__" func="yes">
+			<Overload retVal="" descr="
+						x.__rlshift__(y) <==> y<<x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rmod__" func="yes">
+			<Overload retVal="" descr="
+						x.__rmod__(y) <==> y%x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rmul__" func="yes">
+			<Overload retVal="" descr="
+						x.__rmul__(n) <==> n*x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__ror__" func="yes">
+			<Overload retVal="" descr="
+						x.__ror__(y) <==> y|x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rpow__" func="yes">
+			<Overload retVal="" descr="
+						y.__rpow__(x[, z]) <==> pow(x, y[, z])">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rrshift__" func="yes">
+			<Overload retVal="" descr="
+						x.__rrshift__(y) <==> y>>x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rshift__" func="yes">
+			<Overload retVal="" descr="
+						x.__rshift__(y) <==> x>>y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rsub__" func="yes">
+			<Overload retVal="" descr="
+						x.__rsub__(y) <==> y-x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rtruediv__" func="yes">
+			<Overload retVal="" descr="
+						x.__rtruediv__(y) <==> y/x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__rxor__" func="yes">
+			<Overload retVal="" descr="
+						x.__rxor__(y) <==> y^x">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__set__" func="yes">
+			<Overload retVal="" descr="
+						descr.__set__(obj, value)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__setattr__" func="yes">
+			<Overload retVal="" descr="
+						x.__setattr__('name', value) <==> x.name = value">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__setformat__" func="yes">
+			<Overload retVal="" descr="
+						float.__setformat__(typestr, fmt) -> None
+						You probably don't want to use this function.  It exists mainly to be
+						used in Python's test suite.
+						typestr must be 'double' or 'float'.  fmt must be one of 'unknown',
+						'IEEE, big-endian' or 'IEEE, little-endian', and in addition can only be
+						one of the latter two if it appears to match the underlying C reality.
+						Overrides the automatic determination of C-level floating point type.
+						This affects how floats are converted to and from binary strings.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__setitem__" func="yes">
+			<Overload retVal="" descr="
+						x.__setitem__(i, y) <==> x[i]=y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__setslice__" func="yes">
+			<Overload retVal="" descr="
+						x.__setslice__(i, j, y) <==> x[i:j]=y
+						Use  of negative indices is not supported.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__sizeof__" func="yes">
+			<Overload retVal="" descr="
+						__sizeof__() -> int
+						size of object in memory, in bytes">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__str__" func="yes">
+			<Overload retVal="" descr="
+						x.__str__() <==> str(x)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__sub__" func="yes">
+			<Overload retVal="" descr="
+						x.__sub__(y) <==> x-y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__subclasscheck__" func="yes">
+			<Overload retVal="" descr="
+						__subclasscheck__() -> bool
+						check if a class is a subclass">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__subclasses__" func="yes">
+			<Overload retVal="" descr="
+						__subclasses__() -> list of immediate subclasses">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__subclasshook__" func="yes">
+			<Overload retVal="" descr="
+						Abstract classes can override this to customize issubclass().
+						This is invoked early on by abc.ABCMeta.__subclasscheck__().
+						It should return True, False or NotImplemented.  If it returns
+						NotImplemented, the normal algorithm is used.  Otherwise, it
+						overrides the normal algorithm (and the outcome is cached).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__truediv__" func="yes">
+			<Overload retVal="" descr="
+						x.__truediv__(y) <==> x/y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__trunc__" func="yes">
+			<Overload retVal="" descr="
+						Truncating an Integral returns itself.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="__xor__" func="yes">
+			<Overload retVal="" descr="
+						x.__xor__(y) <==> x^y">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="abs" func="yes">
+			<Overload retVal="" descr="
+						abs(number) -> number
+						Return the absolute value of the argument.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="add" func="yes">
+			<Overload retVal="" descr="
+						Add an element to a set.
+						This has no effect if the element is already present.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="all" func="yes">
+			<Overload retVal="" descr="
+						all(iterable) -> bool
+						Return True if bool(x) is True for all values x in the iterable.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="any" func="yes">
+			<Overload retVal="" descr="
+						any(iterable) -> bool
+						Return True if bool(x) is True for any x in the iterable.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="append" func="yes">
+			<Overload retVal="" descr="
+						B.append(int) -> None
+						Append a single item to the end of B.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="apply" func="yes">
+			<Overload retVal="" descr="
+						apply(object[, args[, kwargs]]) -> value
+						Call a callable object with positional arguments taken from the tuple args,
+						and keyword arguments taken from the optional dictionary kwargs.
+						Note that classes are callable, as are instances with a __call__() method.
+						Deprecated since release 2.3. Instead, use the extended call syntax:
+						function(*args, **keywords).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="as_integer_ratio" func="yes">
+			<Overload retVal="" descr="
+						float.as_integer_ratio() -> (int, int)
+						Returns a pair of integers, whose ratio is exactly equal to the original
+						float and with a positive denominator.
+						Raises OverflowError on infinities and a ValueError on NaNs.
+						>>> (10.0).as_integer_ratio()
+						(10, 1)
+						>>> (0.0).as_integer_ratio()
+						(0, 1)
+						>>> (-.25).as_integer_ratio()
+						(-1, 4)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="basestring" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bin" func="yes">
+			<Overload retVal="" descr="
+						bin(number) -> string
+						Return the binary representation of an integer or long integer.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bit_length" func="yes">
+			<Overload retVal="" descr="
+						long.bit_length() -> int or long
+						Number of bits necessary to represent self in binary.
+						>>> bin(37L)
+						'0b100101'
+						>>> (37L).bit_length()
+						6">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bool" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="buffer" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bytearray" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bytes" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="callable" func="yes">
+			<Overload retVal="" descr="
+						callable(object) -> bool
+						Return whether the object is callable (i.e., some kind of function).
+						Note that classes are callable, as are instances with a __call__() method.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="capitalize" func="yes">
+			<Overload retVal="" descr="
+						S.capitalize() -> string
+						Return a copy of the string S with only its first character
+						capitalized.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="center" func="yes">
+			<Overload retVal="" descr="
+						B.center(width[, fillchar]) -> copy of B
+						Return B centered in a string of length width.  Padding is
+						done using the specified fill character (default is a space).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="chr" func="yes">
+			<Overload retVal="" descr="
+						chr(i) -> character
+						Return a string of one character with ordinal i; 0 <= i < 256.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="classmethod" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="clear" func="yes">
+			<Overload retVal="" descr="
+						Remove all elements from this set.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="close" func="yes">
+			<Overload retVal="" descr="
+						close() -> None or (perhaps) an integer.  Close the file.
+						Sets data attribute .closed to True.  A closed file cannot be used for
+						further I/O operations.  close() may be called more than once without
+						error.  Some kinds of file objects (for example, opened by popen())
+						may return an exit status upon closing.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="cmp" func="yes">
+			<Overload retVal="" descr="
+						cmp(x, y) -> integer
+						Return negative if x<y, zero if x==y, positive if x>y.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="coerce" func="yes">
+			<Overload retVal="" descr="
+						coerce(x, y) -> (x1, y1)
+						Return a tuple consisting of the two numeric arguments converted to
+						a common type, using the same rules as used by arithmetic operations.
+						If coercion is not possible, raise TypeError.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="compile" func="yes">
+			<Overload retVal="" descr="
+						compile(source, filename, mode[, flags[, dont_inherit]]) -> code object
+						Compile the source string (a Python module, statement or expression)
+						into a code object that can be executed by the exec statement or eval().
+						The filename will be used for run-time error messages.
+						The mode must be 'exec' to compile a module, 'single' to compile a
+						single (interactive) statement, or 'eval' to compile an expression.
+						The flags argument, if present, controls which future statements influence
+						the compilation of the code.
+						The dont_inherit argument, if non-zero, stops the compilation inheriting
+						the effects of any future statements in effect in the code calling
+						compile; if absent or zero these statements do influence the compilation,
+						in addition to any features explicitly specified.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="complex" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="conjugate" func="yes">
+			<Overload retVal="" descr="
+						Returns self, the complex conjugate of any int.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="copy" func="yes">
+			<Overload retVal="" descr="
+						D.copy() -> a shallow copy of D">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="count" func="yes">
+			<Overload retVal="" descr="
+						L.count(value) -> integer -- return number of occurrences of value">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="decode" func="yes">
+			<Overload retVal="" descr="
+						S.decode([encoding[,errors]]) -> object
+						Decodes S using the codec registered for encoding. encoding defaults
+						to the default encoding. errors may be given to set a different error
+						handling scheme. Default is 'strict' meaning that encoding errors raise
+						a UnicodeDecodeError. Other possible values are 'ignore' and 'replace'
+						as well as any other name registered with codecs.register_error that is
+						able to handle UnicodeDecodeErrors.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="delattr" func="yes">
+			<Overload retVal="" descr="
+						delattr(object, name)
+						Delete a named attribute on an object; delattr(x, 'y') is equivalent to
+						``del x.y''.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="deleter" func="yes">
+			<Overload retVal="" descr="
+						Descriptor to change the deleter on a property.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="dict" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="difference" func="yes">
+			<Overload retVal="" descr="
+						Return the difference of two or more sets as a new set.
+						(i.e. all elements that are in this set but not the others.)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="difference_update" func="yes">
+			<Overload retVal="" descr="
+						Remove all elements of another set from this set.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="dir" func="yes">
+			<Overload retVal="" descr="
+						dir([object]) -> list of strings
+						If called without an argument, return the names in the current scope.
+						Else, return an alphabetized list of names comprising (some of) the attributes
+						of the given object, and of attributes reachable from it.
+						If the object supplies a method named __dir__, it will be used; otherwise
+						the default dir() logic is used and returns:
+						for a module object: the module's attributes.
+						for a class object:  its attributes, and recursively the attributes
+						of its bases.
+						for any other object: its attributes, its class's attributes, and
+						recursively the attributes of its class's base classes.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="discard" func="yes">
+			<Overload retVal="" descr="
+						Remove an element from a set if it is a member.
+						If the element is not a member, do nothing.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="divmod" func="yes">
+			<Overload retVal="" descr="
+						divmod(x, y) -> (div, mod)
+						Return the tuple ((x-x%y)/y, x%y).  Invariant: div*y + mod == x.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="encode" func="yes">
+			<Overload retVal="" descr="
+						S.encode([encoding[,errors]]) -> string or unicode
+						Encodes S using the codec registered for encoding. encoding defaults
+						to the default encoding. errors may be given to set a different error
+						handling scheme. Default is 'strict' meaning that encoding errors raise
+						a UnicodeEncodeError. Other possible values are 'ignore', 'replace' and
+						'xmlcharrefreplace' as well as any other name registered with
+						codecs.register_error that can handle UnicodeEncodeErrors.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="endswith" func="yes">
+			<Overload retVal="" descr="
+						B.endswith(suffix [,start [,end]]) -> bool
+						Return True if B ends with the specified suffix, False otherwise.
+						With optional start, test B beginning at that position.
+						With optional end, stop comparing B at that position.
+						suffix can also be a tuple of strings to try.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="enumerate" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="eval" func="yes">
+			<Overload retVal="" descr="
+						eval(source[, globals[, locals]]) -> value
+						Evaluate the source in the context of globals and locals.
+						The source may be a string representing a Python expression
+						or a code object as returned by compile().
+						The globals must be a dictionary and locals can be any mapping,
+						defaulting to the current globals and locals.
+						If only globals is given, locals defaults to it.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="execfile" func="yes">
+			<Overload retVal="" descr="
+						execfile(filename[, globals[, locals]])
+						Read and execute a Python script from a file.
+						The globals and locals are dictionaries, defaulting to the current
+						globals and locals.  If only globals is given, locals defaults to it.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="expandtabs" func="yes">
+			<Overload retVal="" descr="
+						B.expandtabs([tabsize]) -> copy of B
+						Return a copy of B where all tab characters are expanded using spaces.
+						If tabsize is not given, a tab size of 8 characters is assumed.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="extend" func="yes">
+			<Overload retVal="" descr="
+						B.extend(iterable int) -> None
+						Append all the elements from the iterator or sequence to the
+						end of B.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="file" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fileno" func="yes">
+			<Overload retVal="" descr="
+						fileno() -> integer 'file descriptor'.
+						This is needed for lower-level file interfaces, such os.read().">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="filter" func="yes">
+			<Overload retVal="" descr="
+						filter(function or None, sequence) -> list, tuple, or string
+						Return those items of sequence for which function(item) is true.  If
+						function is None, return the items that are true.  If sequence is a tuple
+						or string, return the same type, else return a list.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="find" func="yes">
+			<Overload retVal="" descr="
+						S.find(sub [,start [,end]]) -> int
+						Return the lowest index in S where substring sub is found,
+						such that sub is contained within s[start:end].  Optional
+						arguments start and end are interpreted as in slice notation.
+						Return -1 on failure.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="float" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="flush" func="yes">
+			<Overload retVal="" descr="
+						flush() -> None.  Flush the internal I/O buffer.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="format" func="yes">
+			<Overload retVal="" descr="
+						S.format(*args, **kwargs) -> string
+						Return a formatted version of S, using substitutions from args and kwargs.
+						The substitutions are identified by braces ('{' and '}').">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fromhex" func="yes">
+			<Overload retVal="" descr="
+						float.fromhex(string) -> float
+						Create a floating-point number from a hexadecimal string.
+						>>> float.fromhex('0x1.ffffp10')
+						2047.984375
+						>>> float.fromhex('-0x1p-1074')
+						-4.9406564584124654e-324">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fromkeys" func="yes">
+			<Overload retVal="" descr="
+						dict.fromkeys(S[,v]) -> New dict with keys from S and values equal to v.
+						v defaults to None.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="frozenset" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="get" func="yes">
+			<Overload retVal="" descr="
+						D.get(k[,d]) -> D[k] if k in D, else d.  d defaults to None.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="getattr" func="yes">
+			<Overload retVal="" descr="
+						getattr(object, name[, default]) -> value
+						Get a named attribute from an object; getattr(x, 'y') is equivalent to x.y.
+						When a default argument is given, it is returned when the attribute doesn't
+						exist; without it, an exception is raised in that case.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="getter" func="yes">
+			<Overload retVal="" descr="
+						Descriptor to change the getter on a property.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="globals" func="yes">
+			<Overload retVal="" descr="
+						globals() -> dictionary
+						Return the dictionary containing the current scope's global variables.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="has_key" func="yes">
+			<Overload retVal="" descr="
+						D.has_key(k) -> True if D has a key k, else False">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="hasattr" func="yes">
+			<Overload retVal="" descr="
+						hasattr(object, name) -> bool
+						Return whether the object has an attribute with the given name.
+						(This is done by calling getattr(object, name) and catching exceptions.)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="hash" func="yes">
+			<Overload retVal="" descr="
+						hash(object) -> integer
+						Return a hash value for the object.  Two objects with the same value have
+						the same hash value.  The reverse is not necessarily true, but likely.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="hex" func="yes">
+			<Overload retVal="" descr="
+						float.hex() -> string
+						Return a hexadecimal representation of a floating-point number.
+						>>> (-0.1).hex()
+						'-0x1.999999999999ap-4'
+						>>> 3.14159.hex()
+						'0x1.921f9f01b866ep+1'">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="id" func="yes">
+			<Overload retVal="" descr="
+						id(object) -> integer
+						Return the identity of an object.  This is guaranteed to be unique among
+						simultaneously existing objects.  (Hint: it's the object's memory address.)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="index" func="yes">
+			<Overload retVal="" descr="
+						S.index(sub [,start [,end]]) -> int
+						Like S.find() but raise ValueError when the substring is not found.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="indices" func="yes">
+			<Overload retVal="" descr="
+						S.indices(len) -> (start, stop, stride)
+						Assuming a sequence of length len, calculate the start and stop
+						indices, and the stride length of the extended slice described by
+						S. Out of bounds indices are clipped in a manner consistent with the
+						handling of normal slices.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="input" func="yes">
+			<Overload retVal="" descr="
+						input([prompt]) -> value
+						Equivalent to eval(raw_input(prompt)).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="insert" func="yes">
+			<Overload retVal="" descr="
+						B.insert(index, int) -> None
+						Insert a single item into the bytearray before the given index.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="int" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="intern" func="yes">
+			<Overload retVal="" descr="
+						intern(string) -> string
+						``Intern'' the given string.  This enters the string in the (global)
+						table of interned strings whose purpose is to speed up dictionary lookups.
+						Return the string itself or the previously interned string object with the
+						same value.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="intersection" func="yes">
+			<Overload retVal="" descr="
+						Return the intersection of two or more sets as a new set.
+						(i.e. elements that are common to all of the sets.)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="intersection_update" func="yes">
+			<Overload retVal="" descr="
+						Update a set with the intersection of itself and another.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="is_integer" func="yes">
+			<Overload retVal="" descr="
+						Returns True if the float is an integer.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isalnum" func="yes">
+			<Overload retVal="" descr="
+						S.isalnum() -> bool
+						Return True if all characters in S are alphanumeric
+						and there is at least one character in S, False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isalpha" func="yes">
+			<Overload retVal="" descr="
+						S.isalpha() -> bool
+						Return True if all characters in S are alphabetic
+						and there is at least one character in S, False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isatty" func="yes">
+			<Overload retVal="" descr="
+						isatty() -> true or false.  True if the file is connected to a tty device.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isdecimal" func="yes">
+			<Overload retVal="" descr="
+						S.isdecimal() -> bool
+						Return True if there are only decimal characters in S,
+						False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isdigit" func="yes">
+			<Overload retVal="" descr="
+						S.isdigit() -> bool
+						Return True if all characters in S are digits
+						and there is at least one character in S, False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isdisjoint" func="yes">
+			<Overload retVal="" descr="
+						Return True if two sets have a null intersection.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isinstance" func="yes">
+			<Overload retVal="" descr="
+						isinstance(object, class-or-type-or-tuple) -> bool
+						Return whether an object is an instance of a class or of a subclass thereof.
+						With a type as second argument, return whether that is the object's type.
+						The form using a tuple, isinstance(x, (A, B, ...)), is a shortcut for
+						isinstance(x, A) or isinstance(x, B) or ... (etc.).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="islower" func="yes">
+			<Overload retVal="" descr="
+						S.islower() -> bool
+						Return True if all cased characters in S are lowercase and there is
+						at least one cased character in S, False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isnumeric" func="yes">
+			<Overload retVal="" descr="
+						S.isnumeric() -> bool
+						Return True if there are only numeric characters in S,
+						False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isspace" func="yes">
+			<Overload retVal="" descr="
+						S.isspace() -> bool
+						Return True if all characters in S are whitespace
+						and there is at least one character in S, False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="issubclass" func="yes">
+			<Overload retVal="" descr="
+						issubclass(C, B) -> bool
+						Return whether class C is a subclass (i.e., a derived class) of class B.
+						When using a tuple as the second argument issubclass(X, (A, B, ...)),
+						is a shortcut for issubclass(X, A) or issubclass(X, B) or ... (etc.).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="issubset" func="yes">
+			<Overload retVal="" descr="
+						Report whether another set contains this set.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="issuperset" func="yes">
+			<Overload retVal="" descr="
+						Report whether this set contains another set.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="istitle" func="yes">
+			<Overload retVal="" descr="
+						S.istitle() -> bool
+						Return True if S is a titlecased string and there is at least one
+						character in S, i.e. uppercase characters may only follow uncased
+						characters and lowercase characters only cased ones. Return False
+						otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="isupper" func="yes">
+			<Overload retVal="" descr="
+						S.isupper() -> bool
+						Return True if all cased characters in S are uppercase and there is
+						at least one cased character in S, False otherwise.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="items" func="yes">
+			<Overload retVal="" descr="
+						D.items() -> list of D's (key, value) pairs, as 2-tuples">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="iter" func="yes">
+			<Overload retVal="" descr="
+						iter(collection) -> iterator
+						iter(callable, sentinel) -> iterator
+						Get an iterator from an object.  In the first form, the argument must
+						supply its own iterator, or be a sequence.
+						In the second form, the callable is called until it returns the sentinel.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="iteritems" func="yes">
+			<Overload retVal="" descr="
+						D.iteritems() -> an iterator over the (key, value) items of D">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="iterkeys" func="yes">
+			<Overload retVal="" descr="
+						D.iterkeys() -> an iterator over the keys of D">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="itervalues" func="yes">
+			<Overload retVal="" descr="
+						D.itervalues() -> an iterator over the values of D">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="join" func="yes">
+			<Overload retVal="" descr="
+						S.join(iterable) -> unicode
+						Return a string which is the concatenation of the strings in the
+						iterable.  The separator between elements is S.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="keys" func="yes">
+			<Overload retVal="" descr="
+						D.keys() -> list of D's keys">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="len" func="yes">
+			<Overload retVal="" descr="
+						len(object) -> integer
+						Return the number of items of a sequence or mapping.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="list" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ljust" func="yes">
+			<Overload retVal="" descr="
+						S.ljust(width[, fillchar]) -> string
+						Return S left-justified in a string of length width. Padding is
+						done using the specified fill character (default is a space).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="locals" func="yes">
+			<Overload retVal="" descr="
+						locals() -> dictionary
+						Update and return a dictionary containing the current scope's local variables.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="long" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="lower" func="yes">
+			<Overload retVal="" descr="
+						S.lower() -> string
+						Return a copy of the string S converted to lowercase.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="lstrip" func="yes">
+			<Overload retVal="" descr="
+						S.lstrip([chars]) -> string or unicode
+						Return a copy of the string S with leading whitespace removed.
+						If chars is given and not None, remove characters in chars instead.
+						If chars is unicode, S will be converted to unicode before stripping">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="map" func="yes">
+			<Overload retVal="" descr="
+						map(function, sequence[, sequence, ...]) -> list
+						Return a list of the results of applying the function to the items of
+						the argument sequence(s).  If more than one sequence is given, the
+						function is called with an argument list consisting of the corresponding
+						item of each sequence, substituting None for missing values when not all
+						sequences have the same length.  If the function is None, return a list of
+						the items of the sequence (or a list of tuples if more than one sequence).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="max" func="yes">
+			<Overload retVal="" descr="
+						max(iterable[, key=func]) -> value
+						max(a, b, c, ...[, key=func]) -> value
+						With a single iterable argument, return its largest item.
+						With two or more arguments, return the largest argument.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="memoryview" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="min" func="yes">
+			<Overload retVal="" descr="
+						min(iterable[, key=func]) -> value
+						min(a, b, c, ...[, key=func]) -> value
+						With a single iterable argument, return its smallest item.
+						With two or more arguments, return the smallest argument.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="mro" func="yes">
+			<Overload retVal="" descr="
+						mro() -> list
+						return a type's method resolution order">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="next" func="yes">
+			<Overload retVal="" descr="
+						x.next() -> the next value, or raise StopIteration">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="object" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="oct" func="yes">
+			<Overload retVal="" descr="
+						oct(number) -> string
+						Return the octal representation of an integer or long integer.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="open" func="yes">
+			<Overload retVal="" descr="
+						open(name[, mode[, buffering]]) -> file object
+						Open a file using the file() type, returns a file object.  This is the
+						preferred way to open a file.  See file.__doc__ for further information.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ord" func="yes">
+			<Overload retVal="" descr="
+						ord(c) -> integer
+						Return the integer ordinal of a one-character string.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="partition" func="yes">
+			<Overload retVal="" descr="
+						S.partition(sep) -> (head, sep, tail)
+						Search for the separator sep in S, and return the part before it,
+						the separator itself, and the part after it.  If the separator is not
+						found, return S and two empty strings.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="pop" func="yes">
+			<Overload retVal="" descr="
+						L.pop([index]) -> item -- remove and return item at index (default last).
+						Raises IndexError if list is empty or index is out of range.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="popitem" func="yes">
+			<Overload retVal="" descr="
+						D.popitem() -> (k, v), remove and return some (key, value) pair as a
+						2-tuple; but raise KeyError if D is empty.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="pow" func="yes">
+			<Overload retVal="" descr="
+						pow(x, y[, z]) -> number
+						With two arguments, equivalent to x**y.  With three arguments,
+						equivalent to (x**y) % z, but may be more efficient (e.g. for longs).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="property" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="range" func="yes">
+			<Overload retVal="" descr="
+						range([start,] stop[, step]) -> list of integers
+						Return a list containing an arithmetic progression of integers.
+						range(i, j) returns [i, i+1, i+2, ..., j-1]; start (!) defaults to 0.
+						When step is given, it specifies the increment (or decrement).
+						For example, range(4) returns [0, 1, 2, 3].  The end point is omitted!
+						These are exactly the valid indices for a list of 4 elements.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="raw_input" func="yes">
+			<Overload retVal="" descr="
+						raw_input([prompt]) -> string
+						Read a string from standard input.  The trailing newline is stripped.
+						If the user hits EOF (Unix: Ctl-D, Windows: Ctl-Z+Return), raise EOFError.
+						On Unix, GNU readline is used if enabled.  The prompt string, if given,
+						is printed without a trailing newline before reading.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="read" func="yes">
+			<Overload retVal="" descr="
+						read([size]) -> read at most size bytes, returned as a string.
+						If the size argument is negative or omitted, read until EOF is reached.
+						Notice that when in non-blocking mode, less data than what was requested
+						may be returned, even if no size parameter was given.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="readinto" func="yes">
+			<Overload retVal="" descr="
+						readinto() -> Undocumented.  Don't use this; it may go away.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="readline" func="yes">
+			<Overload retVal="" descr="
+						readline([size]) -> next line from the file, as a string.
+						Retain newline.  A non-negative size argument limits the maximum
+						number of bytes to return (an incomplete line may be returned then).
+						Return an empty string at EOF.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="readlines" func="yes">
+			<Overload retVal="" descr="
+						readlines([size]) -> list of strings, each a line from the file.
+						Call readline() repeatedly and return a list of the lines so read.
+						The optional size argument, if given, is an approximate bound on the
+						total number of bytes in the lines returned.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="reduce" func="yes">
+			<Overload retVal="" descr="
+						reduce(function, sequence[, initial]) -> value
+						Apply a function of two arguments cumulatively to the items of a sequence,
+						from left to right, so as to reduce the sequence to a single value.
+						For example, reduce(lambda x, y: x+y, [1, 2, 3, 4, 5]) calculates
+						((((1+2)+3)+4)+5).  If initial is present, it is placed before the items
+						of the sequence in the calculation, and serves as a default when the
+						sequence is empty.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="reload" func="yes">
+			<Overload retVal="" descr="
+						reload(module) -> module
+						Reload the module.  The module must have been successfully imported before.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="remove" func="yes">
+			<Overload retVal="" descr="
+						Remove an element from a set; it must be a member.
+						If the element is not a member, raise a KeyError.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="replace" func="yes">
+			<Overload retVal="" descr="
+						B.replace(old, new[, count]) -> bytes
+						Return a copy of B with all occurrences of subsection
+						old replaced by new.  If the optional argument count is
+						given, only the first count occurrences are replaced.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="repr" func="yes">
+			<Overload retVal="" descr="
+						repr(object) -> string
+						Return the canonical string representation of the object.
+						For most object types, eval(repr(object)) == object.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="reverse" func="yes">
+			<Overload retVal="" descr="
+						L.reverse() -- reverse *IN PLACE*">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="reversed" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="rfind" func="yes">
+			<Overload retVal="" descr="
+						B.rfind(sub [,start [,end]]) -> int
+						Return the highest index in B where subsection sub is found,
+						such that sub is contained within s[start,end].  Optional
+						arguments start and end are interpreted as in slice notation.
+						Return -1 on failure.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="rindex" func="yes">
+			<Overload retVal="" descr="
+						S.rindex(sub [,start [,end]]) -> int
+						Like S.rfind() but raise ValueError when the substring is not found.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="rjust" func="yes">
+			<Overload retVal="" descr="
+						B.rjust(width[, fillchar]) -> copy of B
+						Return B right justified in a string of length width. Padding is
+						done using the specified fill character (default is a space)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="round" func="yes">
+			<Overload retVal="" descr="
+						round(number[, ndigits]) -> floating point number
+						Round a number to a given precision in decimal digits (default 0 digits).
+						This always returns a floating point number.  Precision may be negative.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="rpartition" func="yes">
+			<Overload retVal="" descr="
+						B.rpartition(sep) -> (head, sep, tail)
+						Searches for the separator sep in B, starting at the end of B,
+						and returns the part before it, the separator itself, and the
+						part after it.  If the separator is not found, returns two empty
+						bytearray objects and B.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="rsplit" func="yes">
+			<Overload retVal="" descr="
+						S.rsplit([sep [,maxsplit]]) -> list of strings
+						Return a list of the words in the string S, using sep as the
+						delimiter string, starting at the end of the string and working
+						to the front.  If maxsplit is given, at most maxsplit splits are
+						done. If sep is not specified or is None, any whitespace string
+						is a separator.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="rstrip" func="yes">
+			<Overload retVal="" descr="
+						S.rstrip([chars]) -> string or unicode
+						Return a copy of the string S with trailing whitespace removed.
+						If chars is given and not None, remove characters in chars instead.
+						If chars is unicode, S will be converted to unicode before stripping">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="seek" func="yes">
+			<Overload retVal="" descr="
+						seek(offset[, whence]) -> None.  Move to new file position.
+						Argument offset is a byte count.  Optional argument whence defaults to
+						0 (offset from start of file, offset should be >= 0); other values are 1
+						(move relative to current position, positive or negative), and 2 (move
+						relative to end of file, usually negative, although many platforms allow
+						seeking beyond the end of a file).  If the file is opened in text mode,
+						only offsets returned by tell() are legal.  Use of other offsets causes
+						undefined behavior.
+						Note that not all file objects are seekable.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="set" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="setattr" func="yes">
+			<Overload retVal="" descr="
+						setattr(object, name, value)
+						Set a named attribute on an object; setattr(x, 'y', v) is equivalent to
+						``x.y = v''.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="setdefault" func="yes">
+			<Overload retVal="" descr="
+						D.setdefault(k[,d]) -> D.get(k,d), also set D[k]=d if k not in D">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="setter" func="yes">
+			<Overload retVal="" descr="
+						Descriptor to change the setter on a property.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="slice" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="sort" func="yes">
+			<Overload retVal="" descr="
+						L.sort(cmp=None, key=None, reverse=False) -- stable sort *IN PLACE*;
+						cmp(x, y) -> -1, 0, 1">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="sorted" func="yes">
+			<Overload retVal="" descr="
+						sorted(iterable, cmp=None, key=None, reverse=False) --> new sorted list">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="split" func="yes">
+			<Overload retVal="" descr="
+						B.split([sep[, maxsplit]]) -> list of bytearray
+						Return a list of the sections in B, using sep as the delimiter.
+						If sep is not given, B is split on ASCII whitespace characters
+						(space, tab, return, newline, formfeed, vertical tab).
+						If maxsplit is given, at most maxsplit splits are done.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="splitlines" func="yes">
+			<Overload retVal="" descr="
+						S.splitlines([keepends]) -> list of strings
+						Return a list of the lines in S, breaking at line boundaries.
+						Line breaks are not included in the resulting list unless keepends
+						is given and true.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="startswith" func="yes">
+			<Overload retVal="" descr="
+						S.startswith(prefix[, start[, end]]) -> bool
+						Return True if S starts with the specified prefix, False otherwise.
+						With optional start, test S beginning at that position.
+						With optional end, stop comparing S at that position.
+						prefix can also be a tuple of strings to try.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="staticmethod" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="str" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="strip" func="yes">
+			<Overload retVal="" descr="
+						S.strip([chars]) -> string or unicode
+						Return a copy of the string S with leading and trailing
+						whitespace removed.
+						If chars is given and not None, remove characters in chars instead.
+						If chars is unicode, S will be converted to unicode before stripping">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="sum" func="yes">
+			<Overload retVal="" descr="
+						sum(sequence[, start]) -> value
+						Returns the sum of a sequence of numbers (NOT strings) plus the value
+						of parameter 'start' (which defaults to 0).  When the sequence is
+						empty, returns start.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="super" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="swapcase" func="yes">
+			<Overload retVal="" descr="
+						S.swapcase() -> string
+						Return a copy of the string S with uppercase characters
+						converted to lowercase and vice versa.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="symmetric_difference" func="yes">
+			<Overload retVal="" descr="
+						Return the symmetric difference of two sets as a new set.
+						(i.e. all elements that are in exactly one of the sets.)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="symmetric_difference_update" func="yes">
+			<Overload retVal="" descr="
+						Update a set with the symmetric difference of itself and another.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="tell" func="yes">
+			<Overload retVal="" descr="
+						tell() -> current file position, an integer (may be a long integer).">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="title" func="yes">
+			<Overload retVal="" descr="
+						S.title() -> unicode
+						Return a titlecased version of S, i.e. words start with title case
+						characters, all remaining cased characters have lower case.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="translate" func="yes">
+			<Overload retVal="" descr="
+						B.translate(table[, deletechars]) -> bytearray
+						Return a copy of B, where all characters occurring in the
+						optional argument deletechars are removed, and the remaining
+						characters have been mapped through the given translation
+						table, which must be a bytes object of length 256.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="truncate" func="yes">
+			<Overload retVal="" descr="
+						truncate([size]) -> None.  Truncate the file to at most size bytes.
+						Size defaults to the current file position, as returned by tell().">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="tuple" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="type" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="unichr" func="yes">
+			<Overload retVal="" descr="
+						unichr(i) -> Unicode character
+						Return a Unicode string of one character with ordinal i; 0 <= i <= 0x10ffff.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="unicode" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="union" func="yes">
+			<Overload retVal="" descr="
+						Return the union of sets as a new set.
+						(i.e. all elements that are in either set.)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="update" func="yes">
+			<Overload retVal="" descr="
+						D.update(E, **F) -> None.  Update D from dict/iterable E and F.
+						If E has a .keys() method, does:     for k in E: D[k] = E[k]
+						If E lacks .keys() method, does:     for (k, v) in E: D[k] = v
+						In either case, this is followed by: for k in F: D[k] = F[k]">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="upper" func="yes">
+			<Overload retVal="" descr="
+						S.upper() -> unicode
+						Return a copy of S converted to uppercase.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="values" func="yes">
+			<Overload retVal="" descr="
+						D.values() -> list of D's values">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="vars" func="yes">
+			<Overload retVal="" descr="
+						vars([object]) -> dictionary
+						Without arguments, equivalent to locals().
+						With an argument, equivalent to object.__dict__.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="viewitems" func="yes">
+			<Overload retVal="" descr="
+						D.viewitems() -> a set-like object providing a view on D's items">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="viewkeys" func="yes">
+			<Overload retVal="" descr="
+						D.viewkeys() -> a set-like object providing a view on D's keys">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="viewvalues" func="yes">
+			<Overload retVal="" descr="
+						D.viewvalues() -> an object providing a view on D's values">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="write" func="yes">
+			<Overload retVal="" descr="
+						write(str) -> None.  Write string str to file.
+						Note that due to buffering, flush() or close() may be needed before
+						the file on disk reflects the data written.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="writelines" func="yes">
+			<Overload retVal="" descr="
+						writelines(sequence_of_strings) -> None.  Write the strings to the file.
+						Note that newlines are not added.  The sequence can be any iterable object
+						producing strings. This is equivalent to calling write() for each string.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="xrange" func="yes">
+			<Overload retVal="" descr="
+						type(object) -> the object's type
+						type(name, bases, dict) -> a new type">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="xreadlines" func="yes">
+			<Overload retVal="" descr="
+						xreadlines() -> returns self.
+						For backward compatibility. File objects now include the performance
+						optimizations previously implemented in the xreadlines module.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="zfill" func="yes">
+			<Overload retVal="" descr="
+						B.zfill(width) -> copy of B
+						Pad a numeric string B with zeros on the left, to fill a field
+						of the specified width.  B is never truncated.">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="zip" func="yes">
+			<Overload retVal="" descr="
+						zip(seq1 [, seq2 [...]]) -> [(seq1[0], seq2[0] ...), (...)]
+						Return a list of tuples, where each tuple contains the i-th element
+						from each of the argument sequences.  The returned list is truncated
+						in length to the length of the shortest argument sequence.">
+			</Overload>
+		</KeyWord>
+	</AutoComplete>
+</NotepadPlus>
