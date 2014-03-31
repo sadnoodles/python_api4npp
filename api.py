@@ -184,7 +184,7 @@ if __name__=="__main__":
         lambda x:x.startswith('gen_python_api'),
         lambda x:x.startswith('fcntl'),
         lambda x:x.startswith('ossaudiodev'),
-        lambda x:x.count('.')>=3,
+        lambda x:x.count('.')>=2,
         ) #this will remove the api that you dont want,add a filter function to do it.  
     
     #For Processing
