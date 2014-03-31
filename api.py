@@ -178,6 +178,7 @@ if __name__=="__main__":
 
     #The more you add, the larger is the  python.xml file .
     #and it will slow down the npp start speed.
+    #But its still faster than eclipse and VS.
     
     remove_api(
         lambda x:x.startswith('gen_python_api'),
@@ -186,12 +187,17 @@ if __name__=="__main__":
         lambda x:x.count('.')>=3,
         ) #this will remove the api that you dont want,add a filter function to do it.  
     
-    
+    #For Processing
     # addb('processing.txt') #comment all python api add*(). and use this two line
     # out='processing.xml'   #will generate processing api
     
+    #For Arduino
     # addb('Arduino.txt') #comment all python api add*(). and use this two line
     # out='Arduino.xml'   #will generate Arduino api
+    
+    #For Python_C_API
+    # addb('python_c_API.txt') #comment all python api add*(). and use this two line
+    # out='c_py.xml'   #will generate Arduino api
     
     # if you want add other luanguage api just make a file like file a,b,or c,
     # a if a dictionary like. b is just a list. c is a one line function describe.
